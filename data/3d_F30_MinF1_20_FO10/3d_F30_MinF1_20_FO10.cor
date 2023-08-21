@@ -1,0 +1,4213 @@
+NAME 3d_F30_MinF1_20_FO10
+OBJSENSE 
+ MIN 
+ROWS 
+ N OBJ
+ G sum_of_facilities
+ L sum_of_facilities_less_than
+ G sum_of_demand_0
+ G sum_of_demand_1
+ G sum_of_demand_2
+ G sum_of_demand_3
+ G sum_of_demand_4
+ G sum_of_demand_5
+ G sum_of_demand_6
+ G sum_of_demand_7
+ G sum_of_demand_8
+ G sum_of_demand_9
+ G sum_of_demand_10
+ G sum_of_demand_11
+ G sum_of_demand_12
+ G sum_of_demand_13
+ G sum_of_demand_14
+ L facilities_demands_0_0
+ L facilities_demands_0_1
+ L facilities_demands_0_2
+ L facilities_demands_0_3
+ L facilities_demands_0_4
+ L facilities_demands_0_5
+ L facilities_demands_0_6
+ L facilities_demands_0_7
+ L facilities_demands_0_8
+ L facilities_demands_0_9
+ L facilities_demands_0_10
+ L facilities_demands_0_11
+ L facilities_demands_0_12
+ L facilities_demands_0_13
+ L facilities_demands_0_14
+ L facilities_demands_1_0
+ L facilities_demands_1_1
+ L facilities_demands_1_2
+ L facilities_demands_1_3
+ L facilities_demands_1_4
+ L facilities_demands_1_5
+ L facilities_demands_1_6
+ L facilities_demands_1_7
+ L facilities_demands_1_8
+ L facilities_demands_1_9
+ L facilities_demands_1_10
+ L facilities_demands_1_11
+ L facilities_demands_1_12
+ L facilities_demands_1_13
+ L facilities_demands_1_14
+ L facilities_demands_2_0
+ L facilities_demands_2_1
+ L facilities_demands_2_2
+ L facilities_demands_2_3
+ L facilities_demands_2_4
+ L facilities_demands_2_5
+ L facilities_demands_2_6
+ L facilities_demands_2_7
+ L facilities_demands_2_8
+ L facilities_demands_2_9
+ L facilities_demands_2_10
+ L facilities_demands_2_11
+ L facilities_demands_2_12
+ L facilities_demands_2_13
+ L facilities_demands_2_14
+ L facilities_demands_3_0
+ L facilities_demands_3_1
+ L facilities_demands_3_2
+ L facilities_demands_3_3
+ L facilities_demands_3_4
+ L facilities_demands_3_5
+ L facilities_demands_3_6
+ L facilities_demands_3_7
+ L facilities_demands_3_8
+ L facilities_demands_3_9
+ L facilities_demands_3_10
+ L facilities_demands_3_11
+ L facilities_demands_3_12
+ L facilities_demands_3_13
+ L facilities_demands_3_14
+ L facilities_demands_4_0
+ L facilities_demands_4_1
+ L facilities_demands_4_2
+ L facilities_demands_4_3
+ L facilities_demands_4_4
+ L facilities_demands_4_5
+ L facilities_demands_4_6
+ L facilities_demands_4_7
+ L facilities_demands_4_8
+ L facilities_demands_4_9
+ L facilities_demands_4_10
+ L facilities_demands_4_11
+ L facilities_demands_4_12
+ L facilities_demands_4_13
+ L facilities_demands_4_14
+ L facilities_demands_5_0
+ L facilities_demands_5_1
+ L facilities_demands_5_2
+ L facilities_demands_5_3
+ L facilities_demands_5_4
+ L facilities_demands_5_5
+ L facilities_demands_5_6
+ L facilities_demands_5_7
+ L facilities_demands_5_8
+ L facilities_demands_5_9
+ L facilities_demands_5_10
+ L facilities_demands_5_11
+ L facilities_demands_5_12
+ L facilities_demands_5_13
+ L facilities_demands_5_14
+ L facilities_demands_6_0
+ L facilities_demands_6_1
+ L facilities_demands_6_2
+ L facilities_demands_6_3
+ L facilities_demands_6_4
+ L facilities_demands_6_5
+ L facilities_demands_6_6
+ L facilities_demands_6_7
+ L facilities_demands_6_8
+ L facilities_demands_6_9
+ L facilities_demands_6_10
+ L facilities_demands_6_11
+ L facilities_demands_6_12
+ L facilities_demands_6_13
+ L facilities_demands_6_14
+ L facilities_demands_7_0
+ L facilities_demands_7_1
+ L facilities_demands_7_2
+ L facilities_demands_7_3
+ L facilities_demands_7_4
+ L facilities_demands_7_5
+ L facilities_demands_7_6
+ L facilities_demands_7_7
+ L facilities_demands_7_8
+ L facilities_demands_7_9
+ L facilities_demands_7_10
+ L facilities_demands_7_11
+ L facilities_demands_7_12
+ L facilities_demands_7_13
+ L facilities_demands_7_14
+ L facilities_demands_8_0
+ L facilities_demands_8_1
+ L facilities_demands_8_2
+ L facilities_demands_8_3
+ L facilities_demands_8_4
+ L facilities_demands_8_5
+ L facilities_demands_8_6
+ L facilities_demands_8_7
+ L facilities_demands_8_8
+ L facilities_demands_8_9
+ L facilities_demands_8_10
+ L facilities_demands_8_11
+ L facilities_demands_8_12
+ L facilities_demands_8_13
+ L facilities_demands_8_14
+ L facilities_demands_9_0
+ L facilities_demands_9_1
+ L facilities_demands_9_2
+ L facilities_demands_9_3
+ L facilities_demands_9_4
+ L facilities_demands_9_5
+ L facilities_demands_9_6
+ L facilities_demands_9_7
+ L facilities_demands_9_8
+ L facilities_demands_9_9
+ L facilities_demands_9_10
+ L facilities_demands_9_11
+ L facilities_demands_9_12
+ L facilities_demands_9_13
+ L facilities_demands_9_14
+ L facilities_demands_10_0
+ L facilities_demands_10_1
+ L facilities_demands_10_2
+ L facilities_demands_10_3
+ L facilities_demands_10_4
+ L facilities_demands_10_5
+ L facilities_demands_10_6
+ L facilities_demands_10_7
+ L facilities_demands_10_8
+ L facilities_demands_10_9
+ L facilities_demands_10_10
+ L facilities_demands_10_11
+ L facilities_demands_10_12
+ L facilities_demands_10_13
+ L facilities_demands_10_14
+ L facilities_demands_11_0
+ L facilities_demands_11_1
+ L facilities_demands_11_2
+ L facilities_demands_11_3
+ L facilities_demands_11_4
+ L facilities_demands_11_5
+ L facilities_demands_11_6
+ L facilities_demands_11_7
+ L facilities_demands_11_8
+ L facilities_demands_11_9
+ L facilities_demands_11_10
+ L facilities_demands_11_11
+ L facilities_demands_11_12
+ L facilities_demands_11_13
+ L facilities_demands_11_14
+ L facilities_demands_12_0
+ L facilities_demands_12_1
+ L facilities_demands_12_2
+ L facilities_demands_12_3
+ L facilities_demands_12_4
+ L facilities_demands_12_5
+ L facilities_demands_12_6
+ L facilities_demands_12_7
+ L facilities_demands_12_8
+ L facilities_demands_12_9
+ L facilities_demands_12_10
+ L facilities_demands_12_11
+ L facilities_demands_12_12
+ L facilities_demands_12_13
+ L facilities_demands_12_14
+ L facilities_demands_13_0
+ L facilities_demands_13_1
+ L facilities_demands_13_2
+ L facilities_demands_13_3
+ L facilities_demands_13_4
+ L facilities_demands_13_5
+ L facilities_demands_13_6
+ L facilities_demands_13_7
+ L facilities_demands_13_8
+ L facilities_demands_13_9
+ L facilities_demands_13_10
+ L facilities_demands_13_11
+ L facilities_demands_13_12
+ L facilities_demands_13_13
+ L facilities_demands_13_14
+ L facilities_demands_14_0
+ L facilities_demands_14_1
+ L facilities_demands_14_2
+ L facilities_demands_14_3
+ L facilities_demands_14_4
+ L facilities_demands_14_5
+ L facilities_demands_14_6
+ L facilities_demands_14_7
+ L facilities_demands_14_8
+ L facilities_demands_14_9
+ L facilities_demands_14_10
+ L facilities_demands_14_11
+ L facilities_demands_14_12
+ L facilities_demands_14_13
+ L facilities_demands_14_14
+ L facilities_demands_15_0
+ L facilities_demands_15_1
+ L facilities_demands_15_2
+ L facilities_demands_15_3
+ L facilities_demands_15_4
+ L facilities_demands_15_5
+ L facilities_demands_15_6
+ L facilities_demands_15_7
+ L facilities_demands_15_8
+ L facilities_demands_15_9
+ L facilities_demands_15_10
+ L facilities_demands_15_11
+ L facilities_demands_15_12
+ L facilities_demands_15_13
+ L facilities_demands_15_14
+ L facilities_demands_16_0
+ L facilities_demands_16_1
+ L facilities_demands_16_2
+ L facilities_demands_16_3
+ L facilities_demands_16_4
+ L facilities_demands_16_5
+ L facilities_demands_16_6
+ L facilities_demands_16_7
+ L facilities_demands_16_8
+ L facilities_demands_16_9
+ L facilities_demands_16_10
+ L facilities_demands_16_11
+ L facilities_demands_16_12
+ L facilities_demands_16_13
+ L facilities_demands_16_14
+ L facilities_demands_17_0
+ L facilities_demands_17_1
+ L facilities_demands_17_2
+ L facilities_demands_17_3
+ L facilities_demands_17_4
+ L facilities_demands_17_5
+ L facilities_demands_17_6
+ L facilities_demands_17_7
+ L facilities_demands_17_8
+ L facilities_demands_17_9
+ L facilities_demands_17_10
+ L facilities_demands_17_11
+ L facilities_demands_17_12
+ L facilities_demands_17_13
+ L facilities_demands_17_14
+ L facilities_demands_18_0
+ L facilities_demands_18_1
+ L facilities_demands_18_2
+ L facilities_demands_18_3
+ L facilities_demands_18_4
+ L facilities_demands_18_5
+ L facilities_demands_18_6
+ L facilities_demands_18_7
+ L facilities_demands_18_8
+ L facilities_demands_18_9
+ L facilities_demands_18_10
+ L facilities_demands_18_11
+ L facilities_demands_18_12
+ L facilities_demands_18_13
+ L facilities_demands_18_14
+ L facilities_demands_19_0
+ L facilities_demands_19_1
+ L facilities_demands_19_2
+ L facilities_demands_19_3
+ L facilities_demands_19_4
+ L facilities_demands_19_5
+ L facilities_demands_19_6
+ L facilities_demands_19_7
+ L facilities_demands_19_8
+ L facilities_demands_19_9
+ L facilities_demands_19_10
+ L facilities_demands_19_11
+ L facilities_demands_19_12
+ L facilities_demands_19_13
+ L facilities_demands_19_14
+ L facilities_demands_20_0
+ L facilities_demands_20_1
+ L facilities_demands_20_2
+ L facilities_demands_20_3
+ L facilities_demands_20_4
+ L facilities_demands_20_5
+ L facilities_demands_20_6
+ L facilities_demands_20_7
+ L facilities_demands_20_8
+ L facilities_demands_20_9
+ L facilities_demands_20_10
+ L facilities_demands_20_11
+ L facilities_demands_20_12
+ L facilities_demands_20_13
+ L facilities_demands_20_14
+ L facilities_demands_21_0
+ L facilities_demands_21_1
+ L facilities_demands_21_2
+ L facilities_demands_21_3
+ L facilities_demands_21_4
+ L facilities_demands_21_5
+ L facilities_demands_21_6
+ L facilities_demands_21_7
+ L facilities_demands_21_8
+ L facilities_demands_21_9
+ L facilities_demands_21_10
+ L facilities_demands_21_11
+ L facilities_demands_21_12
+ L facilities_demands_21_13
+ L facilities_demands_21_14
+ L facilities_demands_22_0
+ L facilities_demands_22_1
+ L facilities_demands_22_2
+ L facilities_demands_22_3
+ L facilities_demands_22_4
+ L facilities_demands_22_5
+ L facilities_demands_22_6
+ L facilities_demands_22_7
+ L facilities_demands_22_8
+ L facilities_demands_22_9
+ L facilities_demands_22_10
+ L facilities_demands_22_11
+ L facilities_demands_22_12
+ L facilities_demands_22_13
+ L facilities_demands_22_14
+ L facilities_demands_23_0
+ L facilities_demands_23_1
+ L facilities_demands_23_2
+ L facilities_demands_23_3
+ L facilities_demands_23_4
+ L facilities_demands_23_5
+ L facilities_demands_23_6
+ L facilities_demands_23_7
+ L facilities_demands_23_8
+ L facilities_demands_23_9
+ L facilities_demands_23_10
+ L facilities_demands_23_11
+ L facilities_demands_23_12
+ L facilities_demands_23_13
+ L facilities_demands_23_14
+ L facilities_demands_24_0
+ L facilities_demands_24_1
+ L facilities_demands_24_2
+ L facilities_demands_24_3
+ L facilities_demands_24_4
+ L facilities_demands_24_5
+ L facilities_demands_24_6
+ L facilities_demands_24_7
+ L facilities_demands_24_8
+ L facilities_demands_24_9
+ L facilities_demands_24_10
+ L facilities_demands_24_11
+ L facilities_demands_24_12
+ L facilities_demands_24_13
+ L facilities_demands_24_14
+ L facilities_demands_25_0
+ L facilities_demands_25_1
+ L facilities_demands_25_2
+ L facilities_demands_25_3
+ L facilities_demands_25_4
+ L facilities_demands_25_5
+ L facilities_demands_25_6
+ L facilities_demands_25_7
+ L facilities_demands_25_8
+ L facilities_demands_25_9
+ L facilities_demands_25_10
+ L facilities_demands_25_11
+ L facilities_demands_25_12
+ L facilities_demands_25_13
+ L facilities_demands_25_14
+ L facilities_demands_26_0
+ L facilities_demands_26_1
+ L facilities_demands_26_2
+ L facilities_demands_26_3
+ L facilities_demands_26_4
+ L facilities_demands_26_5
+ L facilities_demands_26_6
+ L facilities_demands_26_7
+ L facilities_demands_26_8
+ L facilities_demands_26_9
+ L facilities_demands_26_10
+ L facilities_demands_26_11
+ L facilities_demands_26_12
+ L facilities_demands_26_13
+ L facilities_demands_26_14
+ L facilities_demands_27_0
+ L facilities_demands_27_1
+ L facilities_demands_27_2
+ L facilities_demands_27_3
+ L facilities_demands_27_4
+ L facilities_demands_27_5
+ L facilities_demands_27_6
+ L facilities_demands_27_7
+ L facilities_demands_27_8
+ L facilities_demands_27_9
+ L facilities_demands_27_10
+ L facilities_demands_27_11
+ L facilities_demands_27_12
+ L facilities_demands_27_13
+ L facilities_demands_27_14
+ L facilities_demands_28_0
+ L facilities_demands_28_1
+ L facilities_demands_28_2
+ L facilities_demands_28_3
+ L facilities_demands_28_4
+ L facilities_demands_28_5
+ L facilities_demands_28_6
+ L facilities_demands_28_7
+ L facilities_demands_28_8
+ L facilities_demands_28_9
+ L facilities_demands_28_10
+ L facilities_demands_28_11
+ L facilities_demands_28_12
+ L facilities_demands_28_13
+ L facilities_demands_28_14
+ L facilities_demands_29_0
+ L facilities_demands_29_1
+ L facilities_demands_29_2
+ L facilities_demands_29_3
+ L facilities_demands_29_4
+ L facilities_demands_29_5
+ L facilities_demands_29_6
+ L facilities_demands_29_7
+ L facilities_demands_29_8
+ L facilities_demands_29_9
+ L facilities_demands_29_10
+ L facilities_demands_29_11
+ L facilities_demands_29_12
+ L facilities_demands_29_13
+ L facilities_demands_29_14
+ L opened_facilities_demands_30_0
+ L opened_facilities_demands_30_1
+ L opened_facilities_demands_30_2
+ L opened_facilities_demands_30_3
+ L opened_facilities_demands_30_4
+ L opened_facilities_demands_30_5
+ L opened_facilities_demands_30_6
+ L opened_facilities_demands_30_7
+ L opened_facilities_demands_30_8
+ L opened_facilities_demands_30_9
+ L opened_facilities_demands_30_10
+ L opened_facilities_demands_30_11
+ L opened_facilities_demands_30_12
+ L opened_facilities_demands_30_13
+ L opened_facilities_demands_30_14
+ L opened_facilities_demands_31_0
+ L opened_facilities_demands_31_1
+ L opened_facilities_demands_31_2
+ L opened_facilities_demands_31_3
+ L opened_facilities_demands_31_4
+ L opened_facilities_demands_31_5
+ L opened_facilities_demands_31_6
+ L opened_facilities_demands_31_7
+ L opened_facilities_demands_31_8
+ L opened_facilities_demands_31_9
+ L opened_facilities_demands_31_10
+ L opened_facilities_demands_31_11
+ L opened_facilities_demands_31_12
+ L opened_facilities_demands_31_13
+ L opened_facilities_demands_31_14
+ L opened_facilities_demands_32_0
+ L opened_facilities_demands_32_1
+ L opened_facilities_demands_32_2
+ L opened_facilities_demands_32_3
+ L opened_facilities_demands_32_4
+ L opened_facilities_demands_32_5
+ L opened_facilities_demands_32_6
+ L opened_facilities_demands_32_7
+ L opened_facilities_demands_32_8
+ L opened_facilities_demands_32_9
+ L opened_facilities_demands_32_10
+ L opened_facilities_demands_32_11
+ L opened_facilities_demands_32_12
+ L opened_facilities_demands_32_13
+ L opened_facilities_demands_32_14
+ L opened_facilities_demands_33_0
+ L opened_facilities_demands_33_1
+ L opened_facilities_demands_33_2
+ L opened_facilities_demands_33_3
+ L opened_facilities_demands_33_4
+ L opened_facilities_demands_33_5
+ L opened_facilities_demands_33_6
+ L opened_facilities_demands_33_7
+ L opened_facilities_demands_33_8
+ L opened_facilities_demands_33_9
+ L opened_facilities_demands_33_10
+ L opened_facilities_demands_33_11
+ L opened_facilities_demands_33_12
+ L opened_facilities_demands_33_13
+ L opened_facilities_demands_33_14
+ L opened_facilities_demands_34_0
+ L opened_facilities_demands_34_1
+ L opened_facilities_demands_34_2
+ L opened_facilities_demands_34_3
+ L opened_facilities_demands_34_4
+ L opened_facilities_demands_34_5
+ L opened_facilities_demands_34_6
+ L opened_facilities_demands_34_7
+ L opened_facilities_demands_34_8
+ L opened_facilities_demands_34_9
+ L opened_facilities_demands_34_10
+ L opened_facilities_demands_34_11
+ L opened_facilities_demands_34_12
+ L opened_facilities_demands_34_13
+ L opened_facilities_demands_34_14
+ L opened_facilities_demands_35_0
+ L opened_facilities_demands_35_1
+ L opened_facilities_demands_35_2
+ L opened_facilities_demands_35_3
+ L opened_facilities_demands_35_4
+ L opened_facilities_demands_35_5
+ L opened_facilities_demands_35_6
+ L opened_facilities_demands_35_7
+ L opened_facilities_demands_35_8
+ L opened_facilities_demands_35_9
+ L opened_facilities_demands_35_10
+ L opened_facilities_demands_35_11
+ L opened_facilities_demands_35_12
+ L opened_facilities_demands_35_13
+ L opened_facilities_demands_35_14
+ L opened_facilities_demands_36_0
+ L opened_facilities_demands_36_1
+ L opened_facilities_demands_36_2
+ L opened_facilities_demands_36_3
+ L opened_facilities_demands_36_4
+ L opened_facilities_demands_36_5
+ L opened_facilities_demands_36_6
+ L opened_facilities_demands_36_7
+ L opened_facilities_demands_36_8
+ L opened_facilities_demands_36_9
+ L opened_facilities_demands_36_10
+ L opened_facilities_demands_36_11
+ L opened_facilities_demands_36_12
+ L opened_facilities_demands_36_13
+ L opened_facilities_demands_36_14
+ L opened_facilities_demands_37_0
+ L opened_facilities_demands_37_1
+ L opened_facilities_demands_37_2
+ L opened_facilities_demands_37_3
+ L opened_facilities_demands_37_4
+ L opened_facilities_demands_37_5
+ L opened_facilities_demands_37_6
+ L opened_facilities_demands_37_7
+ L opened_facilities_demands_37_8
+ L opened_facilities_demands_37_9
+ L opened_facilities_demands_37_10
+ L opened_facilities_demands_37_11
+ L opened_facilities_demands_37_12
+ L opened_facilities_demands_37_13
+ L opened_facilities_demands_37_14
+ L opened_facilities_demands_38_0
+ L opened_facilities_demands_38_1
+ L opened_facilities_demands_38_2
+ L opened_facilities_demands_38_3
+ L opened_facilities_demands_38_4
+ L opened_facilities_demands_38_5
+ L opened_facilities_demands_38_6
+ L opened_facilities_demands_38_7
+ L opened_facilities_demands_38_8
+ L opened_facilities_demands_38_9
+ L opened_facilities_demands_38_10
+ L opened_facilities_demands_38_11
+ L opened_facilities_demands_38_12
+ L opened_facilities_demands_38_13
+ L opened_facilities_demands_38_14
+ L opened_facilities_demands_39_0
+ L opened_facilities_demands_39_1
+ L opened_facilities_demands_39_2
+ L opened_facilities_demands_39_3
+ L opened_facilities_demands_39_4
+ L opened_facilities_demands_39_5
+ L opened_facilities_demands_39_6
+ L opened_facilities_demands_39_7
+ L opened_facilities_demands_39_8
+ L opened_facilities_demands_39_9
+ L opened_facilities_demands_39_10
+ L opened_facilities_demands_39_11
+ L opened_facilities_demands_39_12
+ L opened_facilities_demands_39_13
+ L opened_facilities_demands_39_14
+COLUMNS 
+ x0 OBJ 69
+ x0 sum_of_facilities 1
+ x0 sum_of_facilities_less_than 1
+ x0 facilities_demands_0_0 -1
+ x0 facilities_demands_0_1 -1
+ x0 facilities_demands_0_2 -1
+ x0 facilities_demands_0_3 -1
+ x0 facilities_demands_0_4 -1
+ x0 facilities_demands_0_5 -1
+ x0 facilities_demands_0_6 -1
+ x0 facilities_demands_0_7 -1
+ x0 facilities_demands_0_8 -1
+ x0 facilities_demands_0_9 -1
+ x0 facilities_demands_0_10 -1
+ x0 facilities_demands_0_11 -1
+ x0 facilities_demands_0_12 -1
+ x0 facilities_demands_0_13 -1
+ x0 facilities_demands_0_14 -1
+ x1 OBJ 81
+ x1 sum_of_facilities 1
+ x1 sum_of_facilities_less_than 1
+ x1 facilities_demands_1_0 -1
+ x1 facilities_demands_1_1 -1
+ x1 facilities_demands_1_2 -1
+ x1 facilities_demands_1_3 -1
+ x1 facilities_demands_1_4 -1
+ x1 facilities_demands_1_5 -1
+ x1 facilities_demands_1_6 -1
+ x1 facilities_demands_1_7 -1
+ x1 facilities_demands_1_8 -1
+ x1 facilities_demands_1_9 -1
+ x1 facilities_demands_1_10 -1
+ x1 facilities_demands_1_11 -1
+ x1 facilities_demands_1_12 -1
+ x1 facilities_demands_1_13 -1
+ x1 facilities_demands_1_14 -1
+ x2 OBJ 41
+ x2 sum_of_facilities 1
+ x2 sum_of_facilities_less_than 1
+ x2 facilities_demands_2_0 -1
+ x2 facilities_demands_2_1 -1
+ x2 facilities_demands_2_2 -1
+ x2 facilities_demands_2_3 -1
+ x2 facilities_demands_2_4 -1
+ x2 facilities_demands_2_5 -1
+ x2 facilities_demands_2_6 -1
+ x2 facilities_demands_2_7 -1
+ x2 facilities_demands_2_8 -1
+ x2 facilities_demands_2_9 -1
+ x2 facilities_demands_2_10 -1
+ x2 facilities_demands_2_11 -1
+ x2 facilities_demands_2_12 -1
+ x2 facilities_demands_2_13 -1
+ x2 facilities_demands_2_14 -1
+ x3 OBJ 90
+ x3 sum_of_facilities 1
+ x3 sum_of_facilities_less_than 1
+ x3 facilities_demands_3_0 -1
+ x3 facilities_demands_3_1 -1
+ x3 facilities_demands_3_2 -1
+ x3 facilities_demands_3_3 -1
+ x3 facilities_demands_3_4 -1
+ x3 facilities_demands_3_5 -1
+ x3 facilities_demands_3_6 -1
+ x3 facilities_demands_3_7 -1
+ x3 facilities_demands_3_8 -1
+ x3 facilities_demands_3_9 -1
+ x3 facilities_demands_3_10 -1
+ x3 facilities_demands_3_11 -1
+ x3 facilities_demands_3_12 -1
+ x3 facilities_demands_3_13 -1
+ x3 facilities_demands_3_14 -1
+ x4 OBJ 67
+ x4 sum_of_facilities 1
+ x4 sum_of_facilities_less_than 1
+ x4 facilities_demands_4_0 -1
+ x4 facilities_demands_4_1 -1
+ x4 facilities_demands_4_2 -1
+ x4 facilities_demands_4_3 -1
+ x4 facilities_demands_4_4 -1
+ x4 facilities_demands_4_5 -1
+ x4 facilities_demands_4_6 -1
+ x4 facilities_demands_4_7 -1
+ x4 facilities_demands_4_8 -1
+ x4 facilities_demands_4_9 -1
+ x4 facilities_demands_4_10 -1
+ x4 facilities_demands_4_11 -1
+ x4 facilities_demands_4_12 -1
+ x4 facilities_demands_4_13 -1
+ x4 facilities_demands_4_14 -1
+ x5 OBJ 47
+ x5 sum_of_facilities 1
+ x5 sum_of_facilities_less_than 1
+ x5 facilities_demands_5_0 -1
+ x5 facilities_demands_5_1 -1
+ x5 facilities_demands_5_2 -1
+ x5 facilities_demands_5_3 -1
+ x5 facilities_demands_5_4 -1
+ x5 facilities_demands_5_5 -1
+ x5 facilities_demands_5_6 -1
+ x5 facilities_demands_5_7 -1
+ x5 facilities_demands_5_8 -1
+ x5 facilities_demands_5_9 -1
+ x5 facilities_demands_5_10 -1
+ x5 facilities_demands_5_11 -1
+ x5 facilities_demands_5_12 -1
+ x5 facilities_demands_5_13 -1
+ x5 facilities_demands_5_14 -1
+ x6 OBJ 53
+ x6 sum_of_facilities 1
+ x6 sum_of_facilities_less_than 1
+ x6 facilities_demands_6_0 -1
+ x6 facilities_demands_6_1 -1
+ x6 facilities_demands_6_2 -1
+ x6 facilities_demands_6_3 -1
+ x6 facilities_demands_6_4 -1
+ x6 facilities_demands_6_5 -1
+ x6 facilities_demands_6_6 -1
+ x6 facilities_demands_6_7 -1
+ x6 facilities_demands_6_8 -1
+ x6 facilities_demands_6_9 -1
+ x6 facilities_demands_6_10 -1
+ x6 facilities_demands_6_11 -1
+ x6 facilities_demands_6_12 -1
+ x6 facilities_demands_6_13 -1
+ x6 facilities_demands_6_14 -1
+ x7 OBJ 47
+ x7 sum_of_facilities 1
+ x7 sum_of_facilities_less_than 1
+ x7 facilities_demands_7_0 -1
+ x7 facilities_demands_7_1 -1
+ x7 facilities_demands_7_2 -1
+ x7 facilities_demands_7_3 -1
+ x7 facilities_demands_7_4 -1
+ x7 facilities_demands_7_5 -1
+ x7 facilities_demands_7_6 -1
+ x7 facilities_demands_7_7 -1
+ x7 facilities_demands_7_8 -1
+ x7 facilities_demands_7_9 -1
+ x7 facilities_demands_7_10 -1
+ x7 facilities_demands_7_11 -1
+ x7 facilities_demands_7_12 -1
+ x7 facilities_demands_7_13 -1
+ x7 facilities_demands_7_14 -1
+ x8 OBJ 49
+ x8 sum_of_facilities 1
+ x8 sum_of_facilities_less_than 1
+ x8 facilities_demands_8_0 -1
+ x8 facilities_demands_8_1 -1
+ x8 facilities_demands_8_2 -1
+ x8 facilities_demands_8_3 -1
+ x8 facilities_demands_8_4 -1
+ x8 facilities_demands_8_5 -1
+ x8 facilities_demands_8_6 -1
+ x8 facilities_demands_8_7 -1
+ x8 facilities_demands_8_8 -1
+ x8 facilities_demands_8_9 -1
+ x8 facilities_demands_8_10 -1
+ x8 facilities_demands_8_11 -1
+ x8 facilities_demands_8_12 -1
+ x8 facilities_demands_8_13 -1
+ x8 facilities_demands_8_14 -1
+ x9 OBJ 44
+ x9 sum_of_facilities 1
+ x9 sum_of_facilities_less_than 1
+ x9 facilities_demands_9_0 -1
+ x9 facilities_demands_9_1 -1
+ x9 facilities_demands_9_2 -1
+ x9 facilities_demands_9_3 -1
+ x9 facilities_demands_9_4 -1
+ x9 facilities_demands_9_5 -1
+ x9 facilities_demands_9_6 -1
+ x9 facilities_demands_9_7 -1
+ x9 facilities_demands_9_8 -1
+ x9 facilities_demands_9_9 -1
+ x9 facilities_demands_9_10 -1
+ x9 facilities_demands_9_11 -1
+ x9 facilities_demands_9_12 -1
+ x9 facilities_demands_9_13 -1
+ x9 facilities_demands_9_14 -1
+ x10 OBJ 77
+ x10 sum_of_facilities 1
+ x10 sum_of_facilities_less_than 1
+ x10 facilities_demands_10_0 -1
+ x10 facilities_demands_10_1 -1
+ x10 facilities_demands_10_2 -1
+ x10 facilities_demands_10_3 -1
+ x10 facilities_demands_10_4 -1
+ x10 facilities_demands_10_5 -1
+ x10 facilities_demands_10_6 -1
+ x10 facilities_demands_10_7 -1
+ x10 facilities_demands_10_8 -1
+ x10 facilities_demands_10_9 -1
+ x10 facilities_demands_10_10 -1
+ x10 facilities_demands_10_11 -1
+ x10 facilities_demands_10_12 -1
+ x10 facilities_demands_10_13 -1
+ x10 facilities_demands_10_14 -1
+ x11 OBJ 95
+ x11 sum_of_facilities 1
+ x11 sum_of_facilities_less_than 1
+ x11 facilities_demands_11_0 -1
+ x11 facilities_demands_11_1 -1
+ x11 facilities_demands_11_2 -1
+ x11 facilities_demands_11_3 -1
+ x11 facilities_demands_11_4 -1
+ x11 facilities_demands_11_5 -1
+ x11 facilities_demands_11_6 -1
+ x11 facilities_demands_11_7 -1
+ x11 facilities_demands_11_8 -1
+ x11 facilities_demands_11_9 -1
+ x11 facilities_demands_11_10 -1
+ x11 facilities_demands_11_11 -1
+ x11 facilities_demands_11_12 -1
+ x11 facilities_demands_11_13 -1
+ x11 facilities_demands_11_14 -1
+ x12 OBJ 53
+ x12 sum_of_facilities 1
+ x12 sum_of_facilities_less_than 1
+ x12 facilities_demands_12_0 -1
+ x12 facilities_demands_12_1 -1
+ x12 facilities_demands_12_2 -1
+ x12 facilities_demands_12_3 -1
+ x12 facilities_demands_12_4 -1
+ x12 facilities_demands_12_5 -1
+ x12 facilities_demands_12_6 -1
+ x12 facilities_demands_12_7 -1
+ x12 facilities_demands_12_8 -1
+ x12 facilities_demands_12_9 -1
+ x12 facilities_demands_12_10 -1
+ x12 facilities_demands_12_11 -1
+ x12 facilities_demands_12_12 -1
+ x12 facilities_demands_12_13 -1
+ x12 facilities_demands_12_14 -1
+ x13 OBJ 64
+ x13 sum_of_facilities 1
+ x13 sum_of_facilities_less_than 1
+ x13 facilities_demands_13_0 -1
+ x13 facilities_demands_13_1 -1
+ x13 facilities_demands_13_2 -1
+ x13 facilities_demands_13_3 -1
+ x13 facilities_demands_13_4 -1
+ x13 facilities_demands_13_5 -1
+ x13 facilities_demands_13_6 -1
+ x13 facilities_demands_13_7 -1
+ x13 facilities_demands_13_8 -1
+ x13 facilities_demands_13_9 -1
+ x13 facilities_demands_13_10 -1
+ x13 facilities_demands_13_11 -1
+ x13 facilities_demands_13_12 -1
+ x13 facilities_demands_13_13 -1
+ x13 facilities_demands_13_14 -1
+ x14 OBJ 151
+ x14 sum_of_facilities 1
+ x14 sum_of_facilities_less_than 1
+ x14 facilities_demands_14_0 -1
+ x14 facilities_demands_14_1 -1
+ x14 facilities_demands_14_2 -1
+ x14 facilities_demands_14_3 -1
+ x14 facilities_demands_14_4 -1
+ x14 facilities_demands_14_5 -1
+ x14 facilities_demands_14_6 -1
+ x14 facilities_demands_14_7 -1
+ x14 facilities_demands_14_8 -1
+ x14 facilities_demands_14_9 -1
+ x14 facilities_demands_14_10 -1
+ x14 facilities_demands_14_11 -1
+ x14 facilities_demands_14_12 -1
+ x14 facilities_demands_14_13 -1
+ x14 facilities_demands_14_14 -1
+ x15 OBJ 136
+ x15 sum_of_facilities 1
+ x15 sum_of_facilities_less_than 1
+ x15 facilities_demands_15_0 -1
+ x15 facilities_demands_15_1 -1
+ x15 facilities_demands_15_2 -1
+ x15 facilities_demands_15_3 -1
+ x15 facilities_demands_15_4 -1
+ x15 facilities_demands_15_5 -1
+ x15 facilities_demands_15_6 -1
+ x15 facilities_demands_15_7 -1
+ x15 facilities_demands_15_8 -1
+ x15 facilities_demands_15_9 -1
+ x15 facilities_demands_15_10 -1
+ x15 facilities_demands_15_11 -1
+ x15 facilities_demands_15_12 -1
+ x15 facilities_demands_15_13 -1
+ x15 facilities_demands_15_14 -1
+ x16 OBJ 73
+ x16 sum_of_facilities 1
+ x16 sum_of_facilities_less_than 1
+ x16 facilities_demands_16_0 -1
+ x16 facilities_demands_16_1 -1
+ x16 facilities_demands_16_2 -1
+ x16 facilities_demands_16_3 -1
+ x16 facilities_demands_16_4 -1
+ x16 facilities_demands_16_5 -1
+ x16 facilities_demands_16_6 -1
+ x16 facilities_demands_16_7 -1
+ x16 facilities_demands_16_8 -1
+ x16 facilities_demands_16_9 -1
+ x16 facilities_demands_16_10 -1
+ x16 facilities_demands_16_11 -1
+ x16 facilities_demands_16_12 -1
+ x16 facilities_demands_16_13 -1
+ x16 facilities_demands_16_14 -1
+ x17 OBJ 50
+ x17 sum_of_facilities 1
+ x17 sum_of_facilities_less_than 1
+ x17 facilities_demands_17_0 -1
+ x17 facilities_demands_17_1 -1
+ x17 facilities_demands_17_2 -1
+ x17 facilities_demands_17_3 -1
+ x17 facilities_demands_17_4 -1
+ x17 facilities_demands_17_5 -1
+ x17 facilities_demands_17_6 -1
+ x17 facilities_demands_17_7 -1
+ x17 facilities_demands_17_8 -1
+ x17 facilities_demands_17_9 -1
+ x17 facilities_demands_17_10 -1
+ x17 facilities_demands_17_11 -1
+ x17 facilities_demands_17_12 -1
+ x17 facilities_demands_17_13 -1
+ x17 facilities_demands_17_14 -1
+ x18 OBJ 53
+ x18 sum_of_facilities 1
+ x18 sum_of_facilities_less_than 1
+ x18 facilities_demands_18_0 -1
+ x18 facilities_demands_18_1 -1
+ x18 facilities_demands_18_2 -1
+ x18 facilities_demands_18_3 -1
+ x18 facilities_demands_18_4 -1
+ x18 facilities_demands_18_5 -1
+ x18 facilities_demands_18_6 -1
+ x18 facilities_demands_18_7 -1
+ x18 facilities_demands_18_8 -1
+ x18 facilities_demands_18_9 -1
+ x18 facilities_demands_18_10 -1
+ x18 facilities_demands_18_11 -1
+ x18 facilities_demands_18_12 -1
+ x18 facilities_demands_18_13 -1
+ x18 facilities_demands_18_14 -1
+ x19 OBJ 49
+ x19 sum_of_facilities 1
+ x19 sum_of_facilities_less_than 1
+ x19 facilities_demands_19_0 -1
+ x19 facilities_demands_19_1 -1
+ x19 facilities_demands_19_2 -1
+ x19 facilities_demands_19_3 -1
+ x19 facilities_demands_19_4 -1
+ x19 facilities_demands_19_5 -1
+ x19 facilities_demands_19_6 -1
+ x19 facilities_demands_19_7 -1
+ x19 facilities_demands_19_8 -1
+ x19 facilities_demands_19_9 -1
+ x19 facilities_demands_19_10 -1
+ x19 facilities_demands_19_11 -1
+ x19 facilities_demands_19_12 -1
+ x19 facilities_demands_19_13 -1
+ x19 facilities_demands_19_14 -1
+ x20 OBJ 105
+ x20 sum_of_facilities 1
+ x20 sum_of_facilities_less_than 1
+ x20 facilities_demands_20_0 -1
+ x20 facilities_demands_20_1 -1
+ x20 facilities_demands_20_2 -1
+ x20 facilities_demands_20_3 -1
+ x20 facilities_demands_20_4 -1
+ x20 facilities_demands_20_5 -1
+ x20 facilities_demands_20_6 -1
+ x20 facilities_demands_20_7 -1
+ x20 facilities_demands_20_8 -1
+ x20 facilities_demands_20_9 -1
+ x20 facilities_demands_20_10 -1
+ x20 facilities_demands_20_11 -1
+ x20 facilities_demands_20_12 -1
+ x20 facilities_demands_20_13 -1
+ x20 facilities_demands_20_14 -1
+ x21 OBJ 135
+ x21 sum_of_facilities 1
+ x21 sum_of_facilities_less_than 1
+ x21 facilities_demands_21_0 -1
+ x21 facilities_demands_21_1 -1
+ x21 facilities_demands_21_2 -1
+ x21 facilities_demands_21_3 -1
+ x21 facilities_demands_21_4 -1
+ x21 facilities_demands_21_5 -1
+ x21 facilities_demands_21_6 -1
+ x21 facilities_demands_21_7 -1
+ x21 facilities_demands_21_8 -1
+ x21 facilities_demands_21_9 -1
+ x21 facilities_demands_21_10 -1
+ x21 facilities_demands_21_11 -1
+ x21 facilities_demands_21_12 -1
+ x21 facilities_demands_21_13 -1
+ x21 facilities_demands_21_14 -1
+ x22 OBJ 55
+ x22 sum_of_facilities 1
+ x22 sum_of_facilities_less_than 1
+ x22 facilities_demands_22_0 -1
+ x22 facilities_demands_22_1 -1
+ x22 facilities_demands_22_2 -1
+ x22 facilities_demands_22_3 -1
+ x22 facilities_demands_22_4 -1
+ x22 facilities_demands_22_5 -1
+ x22 facilities_demands_22_6 -1
+ x22 facilities_demands_22_7 -1
+ x22 facilities_demands_22_8 -1
+ x22 facilities_demands_22_9 -1
+ x22 facilities_demands_22_10 -1
+ x22 facilities_demands_22_11 -1
+ x22 facilities_demands_22_12 -1
+ x22 facilities_demands_22_13 -1
+ x22 facilities_demands_22_14 -1
+ x23 OBJ 79
+ x23 sum_of_facilities 1
+ x23 sum_of_facilities_less_than 1
+ x23 facilities_demands_23_0 -1
+ x23 facilities_demands_23_1 -1
+ x23 facilities_demands_23_2 -1
+ x23 facilities_demands_23_3 -1
+ x23 facilities_demands_23_4 -1
+ x23 facilities_demands_23_5 -1
+ x23 facilities_demands_23_6 -1
+ x23 facilities_demands_23_7 -1
+ x23 facilities_demands_23_8 -1
+ x23 facilities_demands_23_9 -1
+ x23 facilities_demands_23_10 -1
+ x23 facilities_demands_23_11 -1
+ x23 facilities_demands_23_12 -1
+ x23 facilities_demands_23_13 -1
+ x23 facilities_demands_23_14 -1
+ x24 OBJ 77
+ x24 sum_of_facilities 1
+ x24 sum_of_facilities_less_than 1
+ x24 facilities_demands_24_0 -1
+ x24 facilities_demands_24_1 -1
+ x24 facilities_demands_24_2 -1
+ x24 facilities_demands_24_3 -1
+ x24 facilities_demands_24_4 -1
+ x24 facilities_demands_24_5 -1
+ x24 facilities_demands_24_6 -1
+ x24 facilities_demands_24_7 -1
+ x24 facilities_demands_24_8 -1
+ x24 facilities_demands_24_9 -1
+ x24 facilities_demands_24_10 -1
+ x24 facilities_demands_24_11 -1
+ x24 facilities_demands_24_12 -1
+ x24 facilities_demands_24_13 -1
+ x24 facilities_demands_24_14 -1
+ x25 OBJ 56
+ x25 sum_of_facilities 1
+ x25 sum_of_facilities_less_than 1
+ x25 facilities_demands_25_0 -1
+ x25 facilities_demands_25_1 -1
+ x25 facilities_demands_25_2 -1
+ x25 facilities_demands_25_3 -1
+ x25 facilities_demands_25_4 -1
+ x25 facilities_demands_25_5 -1
+ x25 facilities_demands_25_6 -1
+ x25 facilities_demands_25_7 -1
+ x25 facilities_demands_25_8 -1
+ x25 facilities_demands_25_9 -1
+ x25 facilities_demands_25_10 -1
+ x25 facilities_demands_25_11 -1
+ x25 facilities_demands_25_12 -1
+ x25 facilities_demands_25_13 -1
+ x25 facilities_demands_25_14 -1
+ x26 OBJ 477
+ x26 sum_of_facilities 1
+ x26 sum_of_facilities_less_than 1
+ x26 facilities_demands_26_0 -1
+ x26 facilities_demands_26_1 -1
+ x26 facilities_demands_26_2 -1
+ x26 facilities_demands_26_3 -1
+ x26 facilities_demands_26_4 -1
+ x26 facilities_demands_26_5 -1
+ x26 facilities_demands_26_6 -1
+ x26 facilities_demands_26_7 -1
+ x26 facilities_demands_26_8 -1
+ x26 facilities_demands_26_9 -1
+ x26 facilities_demands_26_10 -1
+ x26 facilities_demands_26_11 -1
+ x26 facilities_demands_26_12 -1
+ x26 facilities_demands_26_13 -1
+ x26 facilities_demands_26_14 -1
+ x27 OBJ 56
+ x27 sum_of_facilities 1
+ x27 sum_of_facilities_less_than 1
+ x27 facilities_demands_27_0 -1
+ x27 facilities_demands_27_1 -1
+ x27 facilities_demands_27_2 -1
+ x27 facilities_demands_27_3 -1
+ x27 facilities_demands_27_4 -1
+ x27 facilities_demands_27_5 -1
+ x27 facilities_demands_27_6 -1
+ x27 facilities_demands_27_7 -1
+ x27 facilities_demands_27_8 -1
+ x27 facilities_demands_27_9 -1
+ x27 facilities_demands_27_10 -1
+ x27 facilities_demands_27_11 -1
+ x27 facilities_demands_27_12 -1
+ x27 facilities_demands_27_13 -1
+ x27 facilities_demands_27_14 -1
+ x28 OBJ 142
+ x28 sum_of_facilities 1
+ x28 sum_of_facilities_less_than 1
+ x28 facilities_demands_28_0 -1
+ x28 facilities_demands_28_1 -1
+ x28 facilities_demands_28_2 -1
+ x28 facilities_demands_28_3 -1
+ x28 facilities_demands_28_4 -1
+ x28 facilities_demands_28_5 -1
+ x28 facilities_demands_28_6 -1
+ x28 facilities_demands_28_7 -1
+ x28 facilities_demands_28_8 -1
+ x28 facilities_demands_28_9 -1
+ x28 facilities_demands_28_10 -1
+ x28 facilities_demands_28_11 -1
+ x28 facilities_demands_28_12 -1
+ x28 facilities_demands_28_13 -1
+ x28 facilities_demands_28_14 -1
+ x29 OBJ 112
+ x29 sum_of_facilities 1
+ x29 sum_of_facilities_less_than 1
+ x29 facilities_demands_29_0 -1
+ x29 facilities_demands_29_1 -1
+ x29 facilities_demands_29_2 -1
+ x29 facilities_demands_29_3 -1
+ x29 facilities_demands_29_4 -1
+ x29 facilities_demands_29_5 -1
+ x29 facilities_demands_29_6 -1
+ x29 facilities_demands_29_7 -1
+ x29 facilities_demands_29_8 -1
+ x29 facilities_demands_29_9 -1
+ x29 facilities_demands_29_10 -1
+ x29 facilities_demands_29_11 -1
+ x29 facilities_demands_29_12 -1
+ x29 facilities_demands_29_13 -1
+ x29 facilities_demands_29_14 -1
+ y0_0 OBJ 1
+ y0_0 sum_of_demand_0 1
+ y0_0 facilities_demands_0_0 1
+ y1_0 OBJ 1
+ y1_0 sum_of_demand_0 1
+ y1_0 facilities_demands_1_0 1
+ y2_0 OBJ 1
+ y2_0 sum_of_demand_0 1
+ y2_0 facilities_demands_2_0 1
+ y3_0 OBJ 1
+ y3_0 sum_of_demand_0 1
+ y3_0 facilities_demands_3_0 1
+ y4_0 OBJ 1
+ y4_0 sum_of_demand_0 1
+ y4_0 facilities_demands_4_0 1
+ y5_0 OBJ 1
+ y5_0 sum_of_demand_0 1
+ y5_0 facilities_demands_5_0 1
+ y6_0 OBJ 1
+ y6_0 sum_of_demand_0 1
+ y6_0 facilities_demands_6_0 1
+ y7_0 OBJ 1
+ y7_0 sum_of_demand_0 1
+ y7_0 facilities_demands_7_0 1
+ y8_0 OBJ 1
+ y8_0 sum_of_demand_0 1
+ y8_0 facilities_demands_8_0 1
+ y9_0 OBJ 1
+ y9_0 sum_of_demand_0 1
+ y9_0 facilities_demands_9_0 1
+ y10_0 OBJ 1
+ y10_0 sum_of_demand_0 1
+ y10_0 facilities_demands_10_0 1
+ y11_0 OBJ 1
+ y11_0 sum_of_demand_0 1
+ y11_0 facilities_demands_11_0 1
+ y12_0 OBJ 1
+ y12_0 sum_of_demand_0 1
+ y12_0 facilities_demands_12_0 1
+ y13_0 OBJ 1
+ y13_0 sum_of_demand_0 1
+ y13_0 facilities_demands_13_0 1
+ y14_0 OBJ 1
+ y14_0 sum_of_demand_0 1
+ y14_0 facilities_demands_14_0 1
+ y15_0 OBJ 1
+ y15_0 sum_of_demand_0 1
+ y15_0 facilities_demands_15_0 1
+ y16_0 OBJ 1
+ y16_0 sum_of_demand_0 1
+ y16_0 facilities_demands_16_0 1
+ y17_0 OBJ 1
+ y17_0 sum_of_demand_0 1
+ y17_0 facilities_demands_17_0 1
+ y18_0 OBJ 1
+ y18_0 sum_of_demand_0 1
+ y18_0 facilities_demands_18_0 1
+ y19_0 OBJ 1
+ y19_0 sum_of_demand_0 1
+ y19_0 facilities_demands_19_0 1
+ y20_0 OBJ 1
+ y20_0 sum_of_demand_0 1
+ y20_0 facilities_demands_20_0 1
+ y21_0 OBJ 1
+ y21_0 sum_of_demand_0 1
+ y21_0 facilities_demands_21_0 1
+ y22_0 OBJ 1
+ y22_0 sum_of_demand_0 1
+ y22_0 facilities_demands_22_0 1
+ y23_0 OBJ 1
+ y23_0 sum_of_demand_0 1
+ y23_0 facilities_demands_23_0 1
+ y24_0 OBJ 1
+ y24_0 sum_of_demand_0 1
+ y24_0 facilities_demands_24_0 1
+ y25_0 OBJ 1
+ y25_0 sum_of_demand_0 1
+ y25_0 facilities_demands_25_0 1
+ y26_0 OBJ 1
+ y26_0 sum_of_demand_0 1
+ y26_0 facilities_demands_26_0 1
+ y27_0 OBJ 1
+ y27_0 sum_of_demand_0 1
+ y27_0 facilities_demands_27_0 1
+ y28_0 OBJ 1
+ y28_0 sum_of_demand_0 1
+ y28_0 facilities_demands_28_0 1
+ y29_0 OBJ 1
+ y29_0 sum_of_demand_0 1
+ y29_0 facilities_demands_29_0 1
+ y30_0 OBJ 1
+ y30_0 sum_of_demand_0 1
+ y30_0 opened_facilities_demands_30_0 1
+ y31_0 OBJ 1
+ y31_0 sum_of_demand_0 1
+ y31_0 opened_facilities_demands_31_0 1
+ y32_0 OBJ 1
+ y32_0 sum_of_demand_0 1
+ y32_0 opened_facilities_demands_32_0 1
+ y33_0 OBJ 1
+ y33_0 sum_of_demand_0 1
+ y33_0 opened_facilities_demands_33_0 1
+ y34_0 OBJ 1
+ y34_0 sum_of_demand_0 1
+ y34_0 opened_facilities_demands_34_0 1
+ y35_0 OBJ 1
+ y35_0 sum_of_demand_0 1
+ y35_0 opened_facilities_demands_35_0 1
+ y36_0 OBJ 1
+ y36_0 sum_of_demand_0 1
+ y36_0 opened_facilities_demands_36_0 1
+ y37_0 OBJ 1
+ y37_0 sum_of_demand_0 1
+ y37_0 opened_facilities_demands_37_0 1
+ y38_0 OBJ 1
+ y38_0 sum_of_demand_0 1
+ y38_0 opened_facilities_demands_38_0 1
+ y39_0 OBJ 1
+ y39_0 sum_of_demand_0 1
+ y39_0 opened_facilities_demands_39_0 1
+ y0_1 OBJ 1
+ y0_1 sum_of_demand_1 1
+ y0_1 facilities_demands_0_1 1
+ y1_1 OBJ 1
+ y1_1 sum_of_demand_1 1
+ y1_1 facilities_demands_1_1 1
+ y2_1 OBJ 1
+ y2_1 sum_of_demand_1 1
+ y2_1 facilities_demands_2_1 1
+ y3_1 OBJ 1
+ y3_1 sum_of_demand_1 1
+ y3_1 facilities_demands_3_1 1
+ y4_1 OBJ 1
+ y4_1 sum_of_demand_1 1
+ y4_1 facilities_demands_4_1 1
+ y5_1 OBJ 1
+ y5_1 sum_of_demand_1 1
+ y5_1 facilities_demands_5_1 1
+ y6_1 OBJ 1
+ y6_1 sum_of_demand_1 1
+ y6_1 facilities_demands_6_1 1
+ y7_1 OBJ 1
+ y7_1 sum_of_demand_1 1
+ y7_1 facilities_demands_7_1 1
+ y8_1 OBJ 1
+ y8_1 sum_of_demand_1 1
+ y8_1 facilities_demands_8_1 1
+ y9_1 OBJ 1
+ y9_1 sum_of_demand_1 1
+ y9_1 facilities_demands_9_1 1
+ y10_1 OBJ 1
+ y10_1 sum_of_demand_1 1
+ y10_1 facilities_demands_10_1 1
+ y11_1 OBJ 1
+ y11_1 sum_of_demand_1 1
+ y11_1 facilities_demands_11_1 1
+ y12_1 OBJ 1
+ y12_1 sum_of_demand_1 1
+ y12_1 facilities_demands_12_1 1
+ y13_1 OBJ 1
+ y13_1 sum_of_demand_1 1
+ y13_1 facilities_demands_13_1 1
+ y14_1 OBJ 1
+ y14_1 sum_of_demand_1 1
+ y14_1 facilities_demands_14_1 1
+ y15_1 OBJ 1
+ y15_1 sum_of_demand_1 1
+ y15_1 facilities_demands_15_1 1
+ y16_1 OBJ 1
+ y16_1 sum_of_demand_1 1
+ y16_1 facilities_demands_16_1 1
+ y17_1 OBJ 1
+ y17_1 sum_of_demand_1 1
+ y17_1 facilities_demands_17_1 1
+ y18_1 OBJ 1
+ y18_1 sum_of_demand_1 1
+ y18_1 facilities_demands_18_1 1
+ y19_1 OBJ 1
+ y19_1 sum_of_demand_1 1
+ y19_1 facilities_demands_19_1 1
+ y20_1 OBJ 1
+ y20_1 sum_of_demand_1 1
+ y20_1 facilities_demands_20_1 1
+ y21_1 OBJ 1
+ y21_1 sum_of_demand_1 1
+ y21_1 facilities_demands_21_1 1
+ y22_1 OBJ 1
+ y22_1 sum_of_demand_1 1
+ y22_1 facilities_demands_22_1 1
+ y23_1 OBJ 1
+ y23_1 sum_of_demand_1 1
+ y23_1 facilities_demands_23_1 1
+ y24_1 OBJ 1
+ y24_1 sum_of_demand_1 1
+ y24_1 facilities_demands_24_1 1
+ y25_1 OBJ 1
+ y25_1 sum_of_demand_1 1
+ y25_1 facilities_demands_25_1 1
+ y26_1 OBJ 1
+ y26_1 sum_of_demand_1 1
+ y26_1 facilities_demands_26_1 1
+ y27_1 OBJ 1
+ y27_1 sum_of_demand_1 1
+ y27_1 facilities_demands_27_1 1
+ y28_1 OBJ 1
+ y28_1 sum_of_demand_1 1
+ y28_1 facilities_demands_28_1 1
+ y29_1 OBJ 1
+ y29_1 sum_of_demand_1 1
+ y29_1 facilities_demands_29_1 1
+ y30_1 OBJ 1
+ y30_1 sum_of_demand_1 1
+ y30_1 opened_facilities_demands_30_1 1
+ y31_1 OBJ 1
+ y31_1 sum_of_demand_1 1
+ y31_1 opened_facilities_demands_31_1 1
+ y32_1 OBJ 1
+ y32_1 sum_of_demand_1 1
+ y32_1 opened_facilities_demands_32_1 1
+ y33_1 OBJ 1
+ y33_1 sum_of_demand_1 1
+ y33_1 opened_facilities_demands_33_1 1
+ y34_1 OBJ 1
+ y34_1 sum_of_demand_1 1
+ y34_1 opened_facilities_demands_34_1 1
+ y35_1 OBJ 1
+ y35_1 sum_of_demand_1 1
+ y35_1 opened_facilities_demands_35_1 1
+ y36_1 OBJ 1
+ y36_1 sum_of_demand_1 1
+ y36_1 opened_facilities_demands_36_1 1
+ y37_1 OBJ 1
+ y37_1 sum_of_demand_1 1
+ y37_1 opened_facilities_demands_37_1 1
+ y38_1 OBJ 1
+ y38_1 sum_of_demand_1 1
+ y38_1 opened_facilities_demands_38_1 1
+ y39_1 OBJ 1
+ y39_1 sum_of_demand_1 1
+ y39_1 opened_facilities_demands_39_1 1
+ y0_2 OBJ 1
+ y0_2 sum_of_demand_2 1
+ y0_2 facilities_demands_0_2 1
+ y1_2 OBJ 1
+ y1_2 sum_of_demand_2 1
+ y1_2 facilities_demands_1_2 1
+ y2_2 OBJ 1
+ y2_2 sum_of_demand_2 1
+ y2_2 facilities_demands_2_2 1
+ y3_2 OBJ 1
+ y3_2 sum_of_demand_2 1
+ y3_2 facilities_demands_3_2 1
+ y4_2 OBJ 1
+ y4_2 sum_of_demand_2 1
+ y4_2 facilities_demands_4_2 1
+ y5_2 OBJ 1
+ y5_2 sum_of_demand_2 1
+ y5_2 facilities_demands_5_2 1
+ y6_2 OBJ 1
+ y6_2 sum_of_demand_2 1
+ y6_2 facilities_demands_6_2 1
+ y7_2 OBJ 1
+ y7_2 sum_of_demand_2 1
+ y7_2 facilities_demands_7_2 1
+ y8_2 OBJ 1
+ y8_2 sum_of_demand_2 1
+ y8_2 facilities_demands_8_2 1
+ y9_2 OBJ 1
+ y9_2 sum_of_demand_2 1
+ y9_2 facilities_demands_9_2 1
+ y10_2 OBJ 1
+ y10_2 sum_of_demand_2 1
+ y10_2 facilities_demands_10_2 1
+ y11_2 OBJ 1
+ y11_2 sum_of_demand_2 1
+ y11_2 facilities_demands_11_2 1
+ y12_2 OBJ 1
+ y12_2 sum_of_demand_2 1
+ y12_2 facilities_demands_12_2 1
+ y13_2 OBJ 1
+ y13_2 sum_of_demand_2 1
+ y13_2 facilities_demands_13_2 1
+ y14_2 OBJ 1
+ y14_2 sum_of_demand_2 1
+ y14_2 facilities_demands_14_2 1
+ y15_2 OBJ 1
+ y15_2 sum_of_demand_2 1
+ y15_2 facilities_demands_15_2 1
+ y16_2 OBJ 1
+ y16_2 sum_of_demand_2 1
+ y16_2 facilities_demands_16_2 1
+ y17_2 OBJ 1
+ y17_2 sum_of_demand_2 1
+ y17_2 facilities_demands_17_2 1
+ y18_2 OBJ 1
+ y18_2 sum_of_demand_2 1
+ y18_2 facilities_demands_18_2 1
+ y19_2 OBJ 1
+ y19_2 sum_of_demand_2 1
+ y19_2 facilities_demands_19_2 1
+ y20_2 OBJ 1
+ y20_2 sum_of_demand_2 1
+ y20_2 facilities_demands_20_2 1
+ y21_2 OBJ 1
+ y21_2 sum_of_demand_2 1
+ y21_2 facilities_demands_21_2 1
+ y22_2 OBJ 1
+ y22_2 sum_of_demand_2 1
+ y22_2 facilities_demands_22_2 1
+ y23_2 OBJ 1
+ y23_2 sum_of_demand_2 1
+ y23_2 facilities_demands_23_2 1
+ y24_2 OBJ 1
+ y24_2 sum_of_demand_2 1
+ y24_2 facilities_demands_24_2 1
+ y25_2 OBJ 1
+ y25_2 sum_of_demand_2 1
+ y25_2 facilities_demands_25_2 1
+ y26_2 OBJ 1
+ y26_2 sum_of_demand_2 1
+ y26_2 facilities_demands_26_2 1
+ y27_2 OBJ 1
+ y27_2 sum_of_demand_2 1
+ y27_2 facilities_demands_27_2 1
+ y28_2 OBJ 1
+ y28_2 sum_of_demand_2 1
+ y28_2 facilities_demands_28_2 1
+ y29_2 OBJ 1
+ y29_2 sum_of_demand_2 1
+ y29_2 facilities_demands_29_2 1
+ y30_2 OBJ 1
+ y30_2 sum_of_demand_2 1
+ y30_2 opened_facilities_demands_30_2 1
+ y31_2 OBJ 1
+ y31_2 sum_of_demand_2 1
+ y31_2 opened_facilities_demands_31_2 1
+ y32_2 OBJ 1
+ y32_2 sum_of_demand_2 1
+ y32_2 opened_facilities_demands_32_2 1
+ y33_2 OBJ 1
+ y33_2 sum_of_demand_2 1
+ y33_2 opened_facilities_demands_33_2 1
+ y34_2 OBJ 1
+ y34_2 sum_of_demand_2 1
+ y34_2 opened_facilities_demands_34_2 1
+ y35_2 OBJ 1
+ y35_2 sum_of_demand_2 1
+ y35_2 opened_facilities_demands_35_2 1
+ y36_2 OBJ 1
+ y36_2 sum_of_demand_2 1
+ y36_2 opened_facilities_demands_36_2 1
+ y37_2 OBJ 1
+ y37_2 sum_of_demand_2 1
+ y37_2 opened_facilities_demands_37_2 1
+ y38_2 OBJ 1
+ y38_2 sum_of_demand_2 1
+ y38_2 opened_facilities_demands_38_2 1
+ y39_2 OBJ 1
+ y39_2 sum_of_demand_2 1
+ y39_2 opened_facilities_demands_39_2 1
+ y0_3 OBJ 1
+ y0_3 sum_of_demand_3 1
+ y0_3 facilities_demands_0_3 1
+ y1_3 OBJ 1
+ y1_3 sum_of_demand_3 1
+ y1_3 facilities_demands_1_3 1
+ y2_3 OBJ 1
+ y2_3 sum_of_demand_3 1
+ y2_3 facilities_demands_2_3 1
+ y3_3 OBJ 1
+ y3_3 sum_of_demand_3 1
+ y3_3 facilities_demands_3_3 1
+ y4_3 OBJ 1
+ y4_3 sum_of_demand_3 1
+ y4_3 facilities_demands_4_3 1
+ y5_3 OBJ 1
+ y5_3 sum_of_demand_3 1
+ y5_3 facilities_demands_5_3 1
+ y6_3 OBJ 1
+ y6_3 sum_of_demand_3 1
+ y6_3 facilities_demands_6_3 1
+ y7_3 OBJ 1
+ y7_3 sum_of_demand_3 1
+ y7_3 facilities_demands_7_3 1
+ y8_3 OBJ 1
+ y8_3 sum_of_demand_3 1
+ y8_3 facilities_demands_8_3 1
+ y9_3 OBJ 1
+ y9_3 sum_of_demand_3 1
+ y9_3 facilities_demands_9_3 1
+ y10_3 OBJ 1
+ y10_3 sum_of_demand_3 1
+ y10_3 facilities_demands_10_3 1
+ y11_3 OBJ 1
+ y11_3 sum_of_demand_3 1
+ y11_3 facilities_demands_11_3 1
+ y12_3 OBJ 1
+ y12_3 sum_of_demand_3 1
+ y12_3 facilities_demands_12_3 1
+ y13_3 OBJ 1
+ y13_3 sum_of_demand_3 1
+ y13_3 facilities_demands_13_3 1
+ y14_3 OBJ 1
+ y14_3 sum_of_demand_3 1
+ y14_3 facilities_demands_14_3 1
+ y15_3 OBJ 1
+ y15_3 sum_of_demand_3 1
+ y15_3 facilities_demands_15_3 1
+ y16_3 OBJ 1
+ y16_3 sum_of_demand_3 1
+ y16_3 facilities_demands_16_3 1
+ y17_3 OBJ 1
+ y17_3 sum_of_demand_3 1
+ y17_3 facilities_demands_17_3 1
+ y18_3 OBJ 1
+ y18_3 sum_of_demand_3 1
+ y18_3 facilities_demands_18_3 1
+ y19_3 OBJ 1
+ y19_3 sum_of_demand_3 1
+ y19_3 facilities_demands_19_3 1
+ y20_3 OBJ 1
+ y20_3 sum_of_demand_3 1
+ y20_3 facilities_demands_20_3 1
+ y21_3 OBJ 1
+ y21_3 sum_of_demand_3 1
+ y21_3 facilities_demands_21_3 1
+ y22_3 OBJ 1
+ y22_3 sum_of_demand_3 1
+ y22_3 facilities_demands_22_3 1
+ y23_3 OBJ 1
+ y23_3 sum_of_demand_3 1
+ y23_3 facilities_demands_23_3 1
+ y24_3 OBJ 1
+ y24_3 sum_of_demand_3 1
+ y24_3 facilities_demands_24_3 1
+ y25_3 OBJ 1
+ y25_3 sum_of_demand_3 1
+ y25_3 facilities_demands_25_3 1
+ y26_3 OBJ 1
+ y26_3 sum_of_demand_3 1
+ y26_3 facilities_demands_26_3 1
+ y27_3 OBJ 1
+ y27_3 sum_of_demand_3 1
+ y27_3 facilities_demands_27_3 1
+ y28_3 OBJ 1
+ y28_3 sum_of_demand_3 1
+ y28_3 facilities_demands_28_3 1
+ y29_3 OBJ 1
+ y29_3 sum_of_demand_3 1
+ y29_3 facilities_demands_29_3 1
+ y30_3 OBJ 1
+ y30_3 sum_of_demand_3 1
+ y30_3 opened_facilities_demands_30_3 1
+ y31_3 OBJ 1
+ y31_3 sum_of_demand_3 1
+ y31_3 opened_facilities_demands_31_3 1
+ y32_3 OBJ 1
+ y32_3 sum_of_demand_3 1
+ y32_3 opened_facilities_demands_32_3 1
+ y33_3 OBJ 1
+ y33_3 sum_of_demand_3 1
+ y33_3 opened_facilities_demands_33_3 1
+ y34_3 OBJ 1
+ y34_3 sum_of_demand_3 1
+ y34_3 opened_facilities_demands_34_3 1
+ y35_3 OBJ 1
+ y35_3 sum_of_demand_3 1
+ y35_3 opened_facilities_demands_35_3 1
+ y36_3 OBJ 1
+ y36_3 sum_of_demand_3 1
+ y36_3 opened_facilities_demands_36_3 1
+ y37_3 OBJ 1
+ y37_3 sum_of_demand_3 1
+ y37_3 opened_facilities_demands_37_3 1
+ y38_3 OBJ 1
+ y38_3 sum_of_demand_3 1
+ y38_3 opened_facilities_demands_38_3 1
+ y39_3 OBJ 1
+ y39_3 sum_of_demand_3 1
+ y39_3 opened_facilities_demands_39_3 1
+ y0_4 OBJ 1
+ y0_4 sum_of_demand_4 1
+ y0_4 facilities_demands_0_4 1
+ y1_4 OBJ 1
+ y1_4 sum_of_demand_4 1
+ y1_4 facilities_demands_1_4 1
+ y2_4 OBJ 1
+ y2_4 sum_of_demand_4 1
+ y2_4 facilities_demands_2_4 1
+ y3_4 OBJ 1
+ y3_4 sum_of_demand_4 1
+ y3_4 facilities_demands_3_4 1
+ y4_4 OBJ 1
+ y4_4 sum_of_demand_4 1
+ y4_4 facilities_demands_4_4 1
+ y5_4 OBJ 1
+ y5_4 sum_of_demand_4 1
+ y5_4 facilities_demands_5_4 1
+ y6_4 OBJ 1
+ y6_4 sum_of_demand_4 1
+ y6_4 facilities_demands_6_4 1
+ y7_4 OBJ 1
+ y7_4 sum_of_demand_4 1
+ y7_4 facilities_demands_7_4 1
+ y8_4 OBJ 1
+ y8_4 sum_of_demand_4 1
+ y8_4 facilities_demands_8_4 1
+ y9_4 OBJ 1
+ y9_4 sum_of_demand_4 1
+ y9_4 facilities_demands_9_4 1
+ y10_4 OBJ 1
+ y10_4 sum_of_demand_4 1
+ y10_4 facilities_demands_10_4 1
+ y11_4 OBJ 1
+ y11_4 sum_of_demand_4 1
+ y11_4 facilities_demands_11_4 1
+ y12_4 OBJ 1
+ y12_4 sum_of_demand_4 1
+ y12_4 facilities_demands_12_4 1
+ y13_4 OBJ 1
+ y13_4 sum_of_demand_4 1
+ y13_4 facilities_demands_13_4 1
+ y14_4 OBJ 1
+ y14_4 sum_of_demand_4 1
+ y14_4 facilities_demands_14_4 1
+ y15_4 OBJ 1
+ y15_4 sum_of_demand_4 1
+ y15_4 facilities_demands_15_4 1
+ y16_4 OBJ 1
+ y16_4 sum_of_demand_4 1
+ y16_4 facilities_demands_16_4 1
+ y17_4 OBJ 1
+ y17_4 sum_of_demand_4 1
+ y17_4 facilities_demands_17_4 1
+ y18_4 OBJ 1
+ y18_4 sum_of_demand_4 1
+ y18_4 facilities_demands_18_4 1
+ y19_4 OBJ 1
+ y19_4 sum_of_demand_4 1
+ y19_4 facilities_demands_19_4 1
+ y20_4 OBJ 1
+ y20_4 sum_of_demand_4 1
+ y20_4 facilities_demands_20_4 1
+ y21_4 OBJ 1
+ y21_4 sum_of_demand_4 1
+ y21_4 facilities_demands_21_4 1
+ y22_4 OBJ 1
+ y22_4 sum_of_demand_4 1
+ y22_4 facilities_demands_22_4 1
+ y23_4 OBJ 1
+ y23_4 sum_of_demand_4 1
+ y23_4 facilities_demands_23_4 1
+ y24_4 OBJ 1
+ y24_4 sum_of_demand_4 1
+ y24_4 facilities_demands_24_4 1
+ y25_4 OBJ 1
+ y25_4 sum_of_demand_4 1
+ y25_4 facilities_demands_25_4 1
+ y26_4 OBJ 1
+ y26_4 sum_of_demand_4 1
+ y26_4 facilities_demands_26_4 1
+ y27_4 OBJ 1
+ y27_4 sum_of_demand_4 1
+ y27_4 facilities_demands_27_4 1
+ y28_4 OBJ 1
+ y28_4 sum_of_demand_4 1
+ y28_4 facilities_demands_28_4 1
+ y29_4 OBJ 1
+ y29_4 sum_of_demand_4 1
+ y29_4 facilities_demands_29_4 1
+ y30_4 OBJ 1
+ y30_4 sum_of_demand_4 1
+ y30_4 opened_facilities_demands_30_4 1
+ y31_4 OBJ 1
+ y31_4 sum_of_demand_4 1
+ y31_4 opened_facilities_demands_31_4 1
+ y32_4 OBJ 1
+ y32_4 sum_of_demand_4 1
+ y32_4 opened_facilities_demands_32_4 1
+ y33_4 OBJ 1
+ y33_4 sum_of_demand_4 1
+ y33_4 opened_facilities_demands_33_4 1
+ y34_4 OBJ 1
+ y34_4 sum_of_demand_4 1
+ y34_4 opened_facilities_demands_34_4 1
+ y35_4 OBJ 1
+ y35_4 sum_of_demand_4 1
+ y35_4 opened_facilities_demands_35_4 1
+ y36_4 OBJ 1
+ y36_4 sum_of_demand_4 1
+ y36_4 opened_facilities_demands_36_4 1
+ y37_4 OBJ 1
+ y37_4 sum_of_demand_4 1
+ y37_4 opened_facilities_demands_37_4 1
+ y38_4 OBJ 1
+ y38_4 sum_of_demand_4 1
+ y38_4 opened_facilities_demands_38_4 1
+ y39_4 OBJ 1
+ y39_4 sum_of_demand_4 1
+ y39_4 opened_facilities_demands_39_4 1
+ y0_5 OBJ 1
+ y0_5 sum_of_demand_5 1
+ y0_5 facilities_demands_0_5 1
+ y1_5 OBJ 1
+ y1_5 sum_of_demand_5 1
+ y1_5 facilities_demands_1_5 1
+ y2_5 OBJ 1
+ y2_5 sum_of_demand_5 1
+ y2_5 facilities_demands_2_5 1
+ y3_5 OBJ 1
+ y3_5 sum_of_demand_5 1
+ y3_5 facilities_demands_3_5 1
+ y4_5 OBJ 1
+ y4_5 sum_of_demand_5 1
+ y4_5 facilities_demands_4_5 1
+ y5_5 OBJ 1
+ y5_5 sum_of_demand_5 1
+ y5_5 facilities_demands_5_5 1
+ y6_5 OBJ 1
+ y6_5 sum_of_demand_5 1
+ y6_5 facilities_demands_6_5 1
+ y7_5 OBJ 1
+ y7_5 sum_of_demand_5 1
+ y7_5 facilities_demands_7_5 1
+ y8_5 OBJ 1
+ y8_5 sum_of_demand_5 1
+ y8_5 facilities_demands_8_5 1
+ y9_5 OBJ 1
+ y9_5 sum_of_demand_5 1
+ y9_5 facilities_demands_9_5 1
+ y10_5 OBJ 1
+ y10_5 sum_of_demand_5 1
+ y10_5 facilities_demands_10_5 1
+ y11_5 OBJ 1
+ y11_5 sum_of_demand_5 1
+ y11_5 facilities_demands_11_5 1
+ y12_5 OBJ 1
+ y12_5 sum_of_demand_5 1
+ y12_5 facilities_demands_12_5 1
+ y13_5 OBJ 1
+ y13_5 sum_of_demand_5 1
+ y13_5 facilities_demands_13_5 1
+ y14_5 OBJ 1
+ y14_5 sum_of_demand_5 1
+ y14_5 facilities_demands_14_5 1
+ y15_5 OBJ 1
+ y15_5 sum_of_demand_5 1
+ y15_5 facilities_demands_15_5 1
+ y16_5 OBJ 1
+ y16_5 sum_of_demand_5 1
+ y16_5 facilities_demands_16_5 1
+ y17_5 OBJ 1
+ y17_5 sum_of_demand_5 1
+ y17_5 facilities_demands_17_5 1
+ y18_5 OBJ 1
+ y18_5 sum_of_demand_5 1
+ y18_5 facilities_demands_18_5 1
+ y19_5 OBJ 1
+ y19_5 sum_of_demand_5 1
+ y19_5 facilities_demands_19_5 1
+ y20_5 OBJ 1
+ y20_5 sum_of_demand_5 1
+ y20_5 facilities_demands_20_5 1
+ y21_5 OBJ 1
+ y21_5 sum_of_demand_5 1
+ y21_5 facilities_demands_21_5 1
+ y22_5 OBJ 1
+ y22_5 sum_of_demand_5 1
+ y22_5 facilities_demands_22_5 1
+ y23_5 OBJ 1
+ y23_5 sum_of_demand_5 1
+ y23_5 facilities_demands_23_5 1
+ y24_5 OBJ 1
+ y24_5 sum_of_demand_5 1
+ y24_5 facilities_demands_24_5 1
+ y25_5 OBJ 1
+ y25_5 sum_of_demand_5 1
+ y25_5 facilities_demands_25_5 1
+ y26_5 OBJ 1
+ y26_5 sum_of_demand_5 1
+ y26_5 facilities_demands_26_5 1
+ y27_5 OBJ 1
+ y27_5 sum_of_demand_5 1
+ y27_5 facilities_demands_27_5 1
+ y28_5 OBJ 1
+ y28_5 sum_of_demand_5 1
+ y28_5 facilities_demands_28_5 1
+ y29_5 OBJ 1
+ y29_5 sum_of_demand_5 1
+ y29_5 facilities_demands_29_5 1
+ y30_5 OBJ 1
+ y30_5 sum_of_demand_5 1
+ y30_5 opened_facilities_demands_30_5 1
+ y31_5 OBJ 1
+ y31_5 sum_of_demand_5 1
+ y31_5 opened_facilities_demands_31_5 1
+ y32_5 OBJ 1
+ y32_5 sum_of_demand_5 1
+ y32_5 opened_facilities_demands_32_5 1
+ y33_5 OBJ 1
+ y33_5 sum_of_demand_5 1
+ y33_5 opened_facilities_demands_33_5 1
+ y34_5 OBJ 1
+ y34_5 sum_of_demand_5 1
+ y34_5 opened_facilities_demands_34_5 1
+ y35_5 OBJ 1
+ y35_5 sum_of_demand_5 1
+ y35_5 opened_facilities_demands_35_5 1
+ y36_5 OBJ 1
+ y36_5 sum_of_demand_5 1
+ y36_5 opened_facilities_demands_36_5 1
+ y37_5 OBJ 1
+ y37_5 sum_of_demand_5 1
+ y37_5 opened_facilities_demands_37_5 1
+ y38_5 OBJ 1
+ y38_5 sum_of_demand_5 1
+ y38_5 opened_facilities_demands_38_5 1
+ y39_5 OBJ 1
+ y39_5 sum_of_demand_5 1
+ y39_5 opened_facilities_demands_39_5 1
+ y0_6 OBJ 1
+ y0_6 sum_of_demand_6 1
+ y0_6 facilities_demands_0_6 1
+ y1_6 OBJ 1
+ y1_6 sum_of_demand_6 1
+ y1_6 facilities_demands_1_6 1
+ y2_6 OBJ 1
+ y2_6 sum_of_demand_6 1
+ y2_6 facilities_demands_2_6 1
+ y3_6 OBJ 1
+ y3_6 sum_of_demand_6 1
+ y3_6 facilities_demands_3_6 1
+ y4_6 OBJ 1
+ y4_6 sum_of_demand_6 1
+ y4_6 facilities_demands_4_6 1
+ y5_6 OBJ 1
+ y5_6 sum_of_demand_6 1
+ y5_6 facilities_demands_5_6 1
+ y6_6 OBJ 1
+ y6_6 sum_of_demand_6 1
+ y6_6 facilities_demands_6_6 1
+ y7_6 OBJ 1
+ y7_6 sum_of_demand_6 1
+ y7_6 facilities_demands_7_6 1
+ y8_6 OBJ 1
+ y8_6 sum_of_demand_6 1
+ y8_6 facilities_demands_8_6 1
+ y9_6 OBJ 1
+ y9_6 sum_of_demand_6 1
+ y9_6 facilities_demands_9_6 1
+ y10_6 OBJ 1
+ y10_6 sum_of_demand_6 1
+ y10_6 facilities_demands_10_6 1
+ y11_6 OBJ 1
+ y11_6 sum_of_demand_6 1
+ y11_6 facilities_demands_11_6 1
+ y12_6 OBJ 1
+ y12_6 sum_of_demand_6 1
+ y12_6 facilities_demands_12_6 1
+ y13_6 OBJ 1
+ y13_6 sum_of_demand_6 1
+ y13_6 facilities_demands_13_6 1
+ y14_6 OBJ 1
+ y14_6 sum_of_demand_6 1
+ y14_6 facilities_demands_14_6 1
+ y15_6 OBJ 1
+ y15_6 sum_of_demand_6 1
+ y15_6 facilities_demands_15_6 1
+ y16_6 OBJ 1
+ y16_6 sum_of_demand_6 1
+ y16_6 facilities_demands_16_6 1
+ y17_6 OBJ 1
+ y17_6 sum_of_demand_6 1
+ y17_6 facilities_demands_17_6 1
+ y18_6 OBJ 1
+ y18_6 sum_of_demand_6 1
+ y18_6 facilities_demands_18_6 1
+ y19_6 OBJ 1
+ y19_6 sum_of_demand_6 1
+ y19_6 facilities_demands_19_6 1
+ y20_6 OBJ 1
+ y20_6 sum_of_demand_6 1
+ y20_6 facilities_demands_20_6 1
+ y21_6 OBJ 1
+ y21_6 sum_of_demand_6 1
+ y21_6 facilities_demands_21_6 1
+ y22_6 OBJ 1
+ y22_6 sum_of_demand_6 1
+ y22_6 facilities_demands_22_6 1
+ y23_6 OBJ 1
+ y23_6 sum_of_demand_6 1
+ y23_6 facilities_demands_23_6 1
+ y24_6 OBJ 1
+ y24_6 sum_of_demand_6 1
+ y24_6 facilities_demands_24_6 1
+ y25_6 OBJ 1
+ y25_6 sum_of_demand_6 1
+ y25_6 facilities_demands_25_6 1
+ y26_6 OBJ 1
+ y26_6 sum_of_demand_6 1
+ y26_6 facilities_demands_26_6 1
+ y27_6 OBJ 1
+ y27_6 sum_of_demand_6 1
+ y27_6 facilities_demands_27_6 1
+ y28_6 OBJ 1
+ y28_6 sum_of_demand_6 1
+ y28_6 facilities_demands_28_6 1
+ y29_6 OBJ 1
+ y29_6 sum_of_demand_6 1
+ y29_6 facilities_demands_29_6 1
+ y30_6 OBJ 1
+ y30_6 sum_of_demand_6 1
+ y30_6 opened_facilities_demands_30_6 1
+ y31_6 OBJ 1
+ y31_6 sum_of_demand_6 1
+ y31_6 opened_facilities_demands_31_6 1
+ y32_6 OBJ 1
+ y32_6 sum_of_demand_6 1
+ y32_6 opened_facilities_demands_32_6 1
+ y33_6 OBJ 1
+ y33_6 sum_of_demand_6 1
+ y33_6 opened_facilities_demands_33_6 1
+ y34_6 OBJ 1
+ y34_6 sum_of_demand_6 1
+ y34_6 opened_facilities_demands_34_6 1
+ y35_6 OBJ 1
+ y35_6 sum_of_demand_6 1
+ y35_6 opened_facilities_demands_35_6 1
+ y36_6 OBJ 1
+ y36_6 sum_of_demand_6 1
+ y36_6 opened_facilities_demands_36_6 1
+ y37_6 OBJ 1
+ y37_6 sum_of_demand_6 1
+ y37_6 opened_facilities_demands_37_6 1
+ y38_6 OBJ 1
+ y38_6 sum_of_demand_6 1
+ y38_6 opened_facilities_demands_38_6 1
+ y39_6 OBJ 1
+ y39_6 sum_of_demand_6 1
+ y39_6 opened_facilities_demands_39_6 1
+ y0_7 OBJ 1
+ y0_7 sum_of_demand_7 1
+ y0_7 facilities_demands_0_7 1
+ y1_7 OBJ 1
+ y1_7 sum_of_demand_7 1
+ y1_7 facilities_demands_1_7 1
+ y2_7 OBJ 1
+ y2_7 sum_of_demand_7 1
+ y2_7 facilities_demands_2_7 1
+ y3_7 OBJ 1
+ y3_7 sum_of_demand_7 1
+ y3_7 facilities_demands_3_7 1
+ y4_7 OBJ 1
+ y4_7 sum_of_demand_7 1
+ y4_7 facilities_demands_4_7 1
+ y5_7 OBJ 1
+ y5_7 sum_of_demand_7 1
+ y5_7 facilities_demands_5_7 1
+ y6_7 OBJ 1
+ y6_7 sum_of_demand_7 1
+ y6_7 facilities_demands_6_7 1
+ y7_7 OBJ 1
+ y7_7 sum_of_demand_7 1
+ y7_7 facilities_demands_7_7 1
+ y8_7 OBJ 1
+ y8_7 sum_of_demand_7 1
+ y8_7 facilities_demands_8_7 1
+ y9_7 OBJ 1
+ y9_7 sum_of_demand_7 1
+ y9_7 facilities_demands_9_7 1
+ y10_7 OBJ 1
+ y10_7 sum_of_demand_7 1
+ y10_7 facilities_demands_10_7 1
+ y11_7 OBJ 1
+ y11_7 sum_of_demand_7 1
+ y11_7 facilities_demands_11_7 1
+ y12_7 OBJ 1
+ y12_7 sum_of_demand_7 1
+ y12_7 facilities_demands_12_7 1
+ y13_7 OBJ 1
+ y13_7 sum_of_demand_7 1
+ y13_7 facilities_demands_13_7 1
+ y14_7 OBJ 1
+ y14_7 sum_of_demand_7 1
+ y14_7 facilities_demands_14_7 1
+ y15_7 OBJ 1
+ y15_7 sum_of_demand_7 1
+ y15_7 facilities_demands_15_7 1
+ y16_7 OBJ 1
+ y16_7 sum_of_demand_7 1
+ y16_7 facilities_demands_16_7 1
+ y17_7 OBJ 1
+ y17_7 sum_of_demand_7 1
+ y17_7 facilities_demands_17_7 1
+ y18_7 OBJ 1
+ y18_7 sum_of_demand_7 1
+ y18_7 facilities_demands_18_7 1
+ y19_7 OBJ 1
+ y19_7 sum_of_demand_7 1
+ y19_7 facilities_demands_19_7 1
+ y20_7 OBJ 1
+ y20_7 sum_of_demand_7 1
+ y20_7 facilities_demands_20_7 1
+ y21_7 OBJ 1
+ y21_7 sum_of_demand_7 1
+ y21_7 facilities_demands_21_7 1
+ y22_7 OBJ 1
+ y22_7 sum_of_demand_7 1
+ y22_7 facilities_demands_22_7 1
+ y23_7 OBJ 1
+ y23_7 sum_of_demand_7 1
+ y23_7 facilities_demands_23_7 1
+ y24_7 OBJ 1
+ y24_7 sum_of_demand_7 1
+ y24_7 facilities_demands_24_7 1
+ y25_7 OBJ 1
+ y25_7 sum_of_demand_7 1
+ y25_7 facilities_demands_25_7 1
+ y26_7 OBJ 1
+ y26_7 sum_of_demand_7 1
+ y26_7 facilities_demands_26_7 1
+ y27_7 OBJ 1
+ y27_7 sum_of_demand_7 1
+ y27_7 facilities_demands_27_7 1
+ y28_7 OBJ 1
+ y28_7 sum_of_demand_7 1
+ y28_7 facilities_demands_28_7 1
+ y29_7 OBJ 1
+ y29_7 sum_of_demand_7 1
+ y29_7 facilities_demands_29_7 1
+ y30_7 OBJ 1
+ y30_7 sum_of_demand_7 1
+ y30_7 opened_facilities_demands_30_7 1
+ y31_7 OBJ 1
+ y31_7 sum_of_demand_7 1
+ y31_7 opened_facilities_demands_31_7 1
+ y32_7 OBJ 1
+ y32_7 sum_of_demand_7 1
+ y32_7 opened_facilities_demands_32_7 1
+ y33_7 OBJ 1
+ y33_7 sum_of_demand_7 1
+ y33_7 opened_facilities_demands_33_7 1
+ y34_7 OBJ 1
+ y34_7 sum_of_demand_7 1
+ y34_7 opened_facilities_demands_34_7 1
+ y35_7 OBJ 1
+ y35_7 sum_of_demand_7 1
+ y35_7 opened_facilities_demands_35_7 1
+ y36_7 OBJ 1
+ y36_7 sum_of_demand_7 1
+ y36_7 opened_facilities_demands_36_7 1
+ y37_7 OBJ 1
+ y37_7 sum_of_demand_7 1
+ y37_7 opened_facilities_demands_37_7 1
+ y38_7 OBJ 1
+ y38_7 sum_of_demand_7 1
+ y38_7 opened_facilities_demands_38_7 1
+ y39_7 OBJ 1
+ y39_7 sum_of_demand_7 1
+ y39_7 opened_facilities_demands_39_7 1
+ y0_8 OBJ 1
+ y0_8 sum_of_demand_8 1
+ y0_8 facilities_demands_0_8 1
+ y1_8 OBJ 1
+ y1_8 sum_of_demand_8 1
+ y1_8 facilities_demands_1_8 1
+ y2_8 OBJ 1
+ y2_8 sum_of_demand_8 1
+ y2_8 facilities_demands_2_8 1
+ y3_8 OBJ 1
+ y3_8 sum_of_demand_8 1
+ y3_8 facilities_demands_3_8 1
+ y4_8 OBJ 1
+ y4_8 sum_of_demand_8 1
+ y4_8 facilities_demands_4_8 1
+ y5_8 OBJ 1
+ y5_8 sum_of_demand_8 1
+ y5_8 facilities_demands_5_8 1
+ y6_8 OBJ 1
+ y6_8 sum_of_demand_8 1
+ y6_8 facilities_demands_6_8 1
+ y7_8 OBJ 1
+ y7_8 sum_of_demand_8 1
+ y7_8 facilities_demands_7_8 1
+ y8_8 OBJ 1
+ y8_8 sum_of_demand_8 1
+ y8_8 facilities_demands_8_8 1
+ y9_8 OBJ 1
+ y9_8 sum_of_demand_8 1
+ y9_8 facilities_demands_9_8 1
+ y10_8 OBJ 1
+ y10_8 sum_of_demand_8 1
+ y10_8 facilities_demands_10_8 1
+ y11_8 OBJ 1
+ y11_8 sum_of_demand_8 1
+ y11_8 facilities_demands_11_8 1
+ y12_8 OBJ 1
+ y12_8 sum_of_demand_8 1
+ y12_8 facilities_demands_12_8 1
+ y13_8 OBJ 1
+ y13_8 sum_of_demand_8 1
+ y13_8 facilities_demands_13_8 1
+ y14_8 OBJ 1
+ y14_8 sum_of_demand_8 1
+ y14_8 facilities_demands_14_8 1
+ y15_8 OBJ 1
+ y15_8 sum_of_demand_8 1
+ y15_8 facilities_demands_15_8 1
+ y16_8 OBJ 1
+ y16_8 sum_of_demand_8 1
+ y16_8 facilities_demands_16_8 1
+ y17_8 OBJ 1
+ y17_8 sum_of_demand_8 1
+ y17_8 facilities_demands_17_8 1
+ y18_8 OBJ 1
+ y18_8 sum_of_demand_8 1
+ y18_8 facilities_demands_18_8 1
+ y19_8 OBJ 1
+ y19_8 sum_of_demand_8 1
+ y19_8 facilities_demands_19_8 1
+ y20_8 OBJ 1
+ y20_8 sum_of_demand_8 1
+ y20_8 facilities_demands_20_8 1
+ y21_8 OBJ 1
+ y21_8 sum_of_demand_8 1
+ y21_8 facilities_demands_21_8 1
+ y22_8 OBJ 1
+ y22_8 sum_of_demand_8 1
+ y22_8 facilities_demands_22_8 1
+ y23_8 OBJ 1
+ y23_8 sum_of_demand_8 1
+ y23_8 facilities_demands_23_8 1
+ y24_8 OBJ 1
+ y24_8 sum_of_demand_8 1
+ y24_8 facilities_demands_24_8 1
+ y25_8 OBJ 1
+ y25_8 sum_of_demand_8 1
+ y25_8 facilities_demands_25_8 1
+ y26_8 OBJ 1
+ y26_8 sum_of_demand_8 1
+ y26_8 facilities_demands_26_8 1
+ y27_8 OBJ 1
+ y27_8 sum_of_demand_8 1
+ y27_8 facilities_demands_27_8 1
+ y28_8 OBJ 1
+ y28_8 sum_of_demand_8 1
+ y28_8 facilities_demands_28_8 1
+ y29_8 OBJ 1
+ y29_8 sum_of_demand_8 1
+ y29_8 facilities_demands_29_8 1
+ y30_8 OBJ 1
+ y30_8 sum_of_demand_8 1
+ y30_8 opened_facilities_demands_30_8 1
+ y31_8 OBJ 1
+ y31_8 sum_of_demand_8 1
+ y31_8 opened_facilities_demands_31_8 1
+ y32_8 OBJ 1
+ y32_8 sum_of_demand_8 1
+ y32_8 opened_facilities_demands_32_8 1
+ y33_8 OBJ 1
+ y33_8 sum_of_demand_8 1
+ y33_8 opened_facilities_demands_33_8 1
+ y34_8 OBJ 1
+ y34_8 sum_of_demand_8 1
+ y34_8 opened_facilities_demands_34_8 1
+ y35_8 OBJ 1
+ y35_8 sum_of_demand_8 1
+ y35_8 opened_facilities_demands_35_8 1
+ y36_8 OBJ 1
+ y36_8 sum_of_demand_8 1
+ y36_8 opened_facilities_demands_36_8 1
+ y37_8 OBJ 1
+ y37_8 sum_of_demand_8 1
+ y37_8 opened_facilities_demands_37_8 1
+ y38_8 OBJ 1
+ y38_8 sum_of_demand_8 1
+ y38_8 opened_facilities_demands_38_8 1
+ y39_8 OBJ 1
+ y39_8 sum_of_demand_8 1
+ y39_8 opened_facilities_demands_39_8 1
+ y0_9 OBJ 1
+ y0_9 sum_of_demand_9 1
+ y0_9 facilities_demands_0_9 1
+ y1_9 OBJ 1
+ y1_9 sum_of_demand_9 1
+ y1_9 facilities_demands_1_9 1
+ y2_9 OBJ 1
+ y2_9 sum_of_demand_9 1
+ y2_9 facilities_demands_2_9 1
+ y3_9 OBJ 1
+ y3_9 sum_of_demand_9 1
+ y3_9 facilities_demands_3_9 1
+ y4_9 OBJ 1
+ y4_9 sum_of_demand_9 1
+ y4_9 facilities_demands_4_9 1
+ y5_9 OBJ 1
+ y5_9 sum_of_demand_9 1
+ y5_9 facilities_demands_5_9 1
+ y6_9 OBJ 1
+ y6_9 sum_of_demand_9 1
+ y6_9 facilities_demands_6_9 1
+ y7_9 OBJ 1
+ y7_9 sum_of_demand_9 1
+ y7_9 facilities_demands_7_9 1
+ y8_9 OBJ 1
+ y8_9 sum_of_demand_9 1
+ y8_9 facilities_demands_8_9 1
+ y9_9 OBJ 1
+ y9_9 sum_of_demand_9 1
+ y9_9 facilities_demands_9_9 1
+ y10_9 OBJ 1
+ y10_9 sum_of_demand_9 1
+ y10_9 facilities_demands_10_9 1
+ y11_9 OBJ 1
+ y11_9 sum_of_demand_9 1
+ y11_9 facilities_demands_11_9 1
+ y12_9 OBJ 1
+ y12_9 sum_of_demand_9 1
+ y12_9 facilities_demands_12_9 1
+ y13_9 OBJ 1
+ y13_9 sum_of_demand_9 1
+ y13_9 facilities_demands_13_9 1
+ y14_9 OBJ 1
+ y14_9 sum_of_demand_9 1
+ y14_9 facilities_demands_14_9 1
+ y15_9 OBJ 1
+ y15_9 sum_of_demand_9 1
+ y15_9 facilities_demands_15_9 1
+ y16_9 OBJ 1
+ y16_9 sum_of_demand_9 1
+ y16_9 facilities_demands_16_9 1
+ y17_9 OBJ 1
+ y17_9 sum_of_demand_9 1
+ y17_9 facilities_demands_17_9 1
+ y18_9 OBJ 1
+ y18_9 sum_of_demand_9 1
+ y18_9 facilities_demands_18_9 1
+ y19_9 OBJ 1
+ y19_9 sum_of_demand_9 1
+ y19_9 facilities_demands_19_9 1
+ y20_9 OBJ 1
+ y20_9 sum_of_demand_9 1
+ y20_9 facilities_demands_20_9 1
+ y21_9 OBJ 1
+ y21_9 sum_of_demand_9 1
+ y21_9 facilities_demands_21_9 1
+ y22_9 OBJ 1
+ y22_9 sum_of_demand_9 1
+ y22_9 facilities_demands_22_9 1
+ y23_9 OBJ 1
+ y23_9 sum_of_demand_9 1
+ y23_9 facilities_demands_23_9 1
+ y24_9 OBJ 1
+ y24_9 sum_of_demand_9 1
+ y24_9 facilities_demands_24_9 1
+ y25_9 OBJ 1
+ y25_9 sum_of_demand_9 1
+ y25_9 facilities_demands_25_9 1
+ y26_9 OBJ 1
+ y26_9 sum_of_demand_9 1
+ y26_9 facilities_demands_26_9 1
+ y27_9 OBJ 1
+ y27_9 sum_of_demand_9 1
+ y27_9 facilities_demands_27_9 1
+ y28_9 OBJ 1
+ y28_9 sum_of_demand_9 1
+ y28_9 facilities_demands_28_9 1
+ y29_9 OBJ 1
+ y29_9 sum_of_demand_9 1
+ y29_9 facilities_demands_29_9 1
+ y30_9 OBJ 1
+ y30_9 sum_of_demand_9 1
+ y30_9 opened_facilities_demands_30_9 1
+ y31_9 OBJ 1
+ y31_9 sum_of_demand_9 1
+ y31_9 opened_facilities_demands_31_9 1
+ y32_9 OBJ 1
+ y32_9 sum_of_demand_9 1
+ y32_9 opened_facilities_demands_32_9 1
+ y33_9 OBJ 1
+ y33_9 sum_of_demand_9 1
+ y33_9 opened_facilities_demands_33_9 1
+ y34_9 OBJ 1
+ y34_9 sum_of_demand_9 1
+ y34_9 opened_facilities_demands_34_9 1
+ y35_9 OBJ 1
+ y35_9 sum_of_demand_9 1
+ y35_9 opened_facilities_demands_35_9 1
+ y36_9 OBJ 1
+ y36_9 sum_of_demand_9 1
+ y36_9 opened_facilities_demands_36_9 1
+ y37_9 OBJ 1
+ y37_9 sum_of_demand_9 1
+ y37_9 opened_facilities_demands_37_9 1
+ y38_9 OBJ 1
+ y38_9 sum_of_demand_9 1
+ y38_9 opened_facilities_demands_38_9 1
+ y39_9 OBJ 1
+ y39_9 sum_of_demand_9 1
+ y39_9 opened_facilities_demands_39_9 1
+ y0_10 OBJ 1
+ y0_10 sum_of_demand_10 1
+ y0_10 facilities_demands_0_10 1
+ y1_10 OBJ 1
+ y1_10 sum_of_demand_10 1
+ y1_10 facilities_demands_1_10 1
+ y2_10 OBJ 1
+ y2_10 sum_of_demand_10 1
+ y2_10 facilities_demands_2_10 1
+ y3_10 OBJ 1
+ y3_10 sum_of_demand_10 1
+ y3_10 facilities_demands_3_10 1
+ y4_10 OBJ 1
+ y4_10 sum_of_demand_10 1
+ y4_10 facilities_demands_4_10 1
+ y5_10 OBJ 1
+ y5_10 sum_of_demand_10 1
+ y5_10 facilities_demands_5_10 1
+ y6_10 OBJ 1
+ y6_10 sum_of_demand_10 1
+ y6_10 facilities_demands_6_10 1
+ y7_10 OBJ 1
+ y7_10 sum_of_demand_10 1
+ y7_10 facilities_demands_7_10 1
+ y8_10 OBJ 1
+ y8_10 sum_of_demand_10 1
+ y8_10 facilities_demands_8_10 1
+ y9_10 OBJ 1
+ y9_10 sum_of_demand_10 1
+ y9_10 facilities_demands_9_10 1
+ y10_10 OBJ 1
+ y10_10 sum_of_demand_10 1
+ y10_10 facilities_demands_10_10 1
+ y11_10 OBJ 1
+ y11_10 sum_of_demand_10 1
+ y11_10 facilities_demands_11_10 1
+ y12_10 OBJ 1
+ y12_10 sum_of_demand_10 1
+ y12_10 facilities_demands_12_10 1
+ y13_10 OBJ 1
+ y13_10 sum_of_demand_10 1
+ y13_10 facilities_demands_13_10 1
+ y14_10 OBJ 1
+ y14_10 sum_of_demand_10 1
+ y14_10 facilities_demands_14_10 1
+ y15_10 OBJ 1
+ y15_10 sum_of_demand_10 1
+ y15_10 facilities_demands_15_10 1
+ y16_10 OBJ 1
+ y16_10 sum_of_demand_10 1
+ y16_10 facilities_demands_16_10 1
+ y17_10 OBJ 1
+ y17_10 sum_of_demand_10 1
+ y17_10 facilities_demands_17_10 1
+ y18_10 OBJ 1
+ y18_10 sum_of_demand_10 1
+ y18_10 facilities_demands_18_10 1
+ y19_10 OBJ 1
+ y19_10 sum_of_demand_10 1
+ y19_10 facilities_demands_19_10 1
+ y20_10 OBJ 1
+ y20_10 sum_of_demand_10 1
+ y20_10 facilities_demands_20_10 1
+ y21_10 OBJ 1
+ y21_10 sum_of_demand_10 1
+ y21_10 facilities_demands_21_10 1
+ y22_10 OBJ 1
+ y22_10 sum_of_demand_10 1
+ y22_10 facilities_demands_22_10 1
+ y23_10 OBJ 1
+ y23_10 sum_of_demand_10 1
+ y23_10 facilities_demands_23_10 1
+ y24_10 OBJ 1
+ y24_10 sum_of_demand_10 1
+ y24_10 facilities_demands_24_10 1
+ y25_10 OBJ 1
+ y25_10 sum_of_demand_10 1
+ y25_10 facilities_demands_25_10 1
+ y26_10 OBJ 1
+ y26_10 sum_of_demand_10 1
+ y26_10 facilities_demands_26_10 1
+ y27_10 OBJ 1
+ y27_10 sum_of_demand_10 1
+ y27_10 facilities_demands_27_10 1
+ y28_10 OBJ 1
+ y28_10 sum_of_demand_10 1
+ y28_10 facilities_demands_28_10 1
+ y29_10 OBJ 1
+ y29_10 sum_of_demand_10 1
+ y29_10 facilities_demands_29_10 1
+ y30_10 OBJ 1
+ y30_10 sum_of_demand_10 1
+ y30_10 opened_facilities_demands_30_10 1
+ y31_10 OBJ 1
+ y31_10 sum_of_demand_10 1
+ y31_10 opened_facilities_demands_31_10 1
+ y32_10 OBJ 1
+ y32_10 sum_of_demand_10 1
+ y32_10 opened_facilities_demands_32_10 1
+ y33_10 OBJ 1
+ y33_10 sum_of_demand_10 1
+ y33_10 opened_facilities_demands_33_10 1
+ y34_10 OBJ 1
+ y34_10 sum_of_demand_10 1
+ y34_10 opened_facilities_demands_34_10 1
+ y35_10 OBJ 1
+ y35_10 sum_of_demand_10 1
+ y35_10 opened_facilities_demands_35_10 1
+ y36_10 OBJ 1
+ y36_10 sum_of_demand_10 1
+ y36_10 opened_facilities_demands_36_10 1
+ y37_10 OBJ 1
+ y37_10 sum_of_demand_10 1
+ y37_10 opened_facilities_demands_37_10 1
+ y38_10 OBJ 1
+ y38_10 sum_of_demand_10 1
+ y38_10 opened_facilities_demands_38_10 1
+ y39_10 OBJ 1
+ y39_10 sum_of_demand_10 1
+ y39_10 opened_facilities_demands_39_10 1
+ y0_11 OBJ 1
+ y0_11 sum_of_demand_11 1
+ y0_11 facilities_demands_0_11 1
+ y1_11 OBJ 1
+ y1_11 sum_of_demand_11 1
+ y1_11 facilities_demands_1_11 1
+ y2_11 OBJ 1
+ y2_11 sum_of_demand_11 1
+ y2_11 facilities_demands_2_11 1
+ y3_11 OBJ 1
+ y3_11 sum_of_demand_11 1
+ y3_11 facilities_demands_3_11 1
+ y4_11 OBJ 1
+ y4_11 sum_of_demand_11 1
+ y4_11 facilities_demands_4_11 1
+ y5_11 OBJ 1
+ y5_11 sum_of_demand_11 1
+ y5_11 facilities_demands_5_11 1
+ y6_11 OBJ 1
+ y6_11 sum_of_demand_11 1
+ y6_11 facilities_demands_6_11 1
+ y7_11 OBJ 1
+ y7_11 sum_of_demand_11 1
+ y7_11 facilities_demands_7_11 1
+ y8_11 OBJ 1
+ y8_11 sum_of_demand_11 1
+ y8_11 facilities_demands_8_11 1
+ y9_11 OBJ 1
+ y9_11 sum_of_demand_11 1
+ y9_11 facilities_demands_9_11 1
+ y10_11 OBJ 1
+ y10_11 sum_of_demand_11 1
+ y10_11 facilities_demands_10_11 1
+ y11_11 OBJ 1
+ y11_11 sum_of_demand_11 1
+ y11_11 facilities_demands_11_11 1
+ y12_11 OBJ 1
+ y12_11 sum_of_demand_11 1
+ y12_11 facilities_demands_12_11 1
+ y13_11 OBJ 1
+ y13_11 sum_of_demand_11 1
+ y13_11 facilities_demands_13_11 1
+ y14_11 OBJ 1
+ y14_11 sum_of_demand_11 1
+ y14_11 facilities_demands_14_11 1
+ y15_11 OBJ 1
+ y15_11 sum_of_demand_11 1
+ y15_11 facilities_demands_15_11 1
+ y16_11 OBJ 1
+ y16_11 sum_of_demand_11 1
+ y16_11 facilities_demands_16_11 1
+ y17_11 OBJ 1
+ y17_11 sum_of_demand_11 1
+ y17_11 facilities_demands_17_11 1
+ y18_11 OBJ 1
+ y18_11 sum_of_demand_11 1
+ y18_11 facilities_demands_18_11 1
+ y19_11 OBJ 1
+ y19_11 sum_of_demand_11 1
+ y19_11 facilities_demands_19_11 1
+ y20_11 OBJ 1
+ y20_11 sum_of_demand_11 1
+ y20_11 facilities_demands_20_11 1
+ y21_11 OBJ 1
+ y21_11 sum_of_demand_11 1
+ y21_11 facilities_demands_21_11 1
+ y22_11 OBJ 1
+ y22_11 sum_of_demand_11 1
+ y22_11 facilities_demands_22_11 1
+ y23_11 OBJ 1
+ y23_11 sum_of_demand_11 1
+ y23_11 facilities_demands_23_11 1
+ y24_11 OBJ 1
+ y24_11 sum_of_demand_11 1
+ y24_11 facilities_demands_24_11 1
+ y25_11 OBJ 1
+ y25_11 sum_of_demand_11 1
+ y25_11 facilities_demands_25_11 1
+ y26_11 OBJ 1
+ y26_11 sum_of_demand_11 1
+ y26_11 facilities_demands_26_11 1
+ y27_11 OBJ 1
+ y27_11 sum_of_demand_11 1
+ y27_11 facilities_demands_27_11 1
+ y28_11 OBJ 1
+ y28_11 sum_of_demand_11 1
+ y28_11 facilities_demands_28_11 1
+ y29_11 OBJ 1
+ y29_11 sum_of_demand_11 1
+ y29_11 facilities_demands_29_11 1
+ y30_11 OBJ 1
+ y30_11 sum_of_demand_11 1
+ y30_11 opened_facilities_demands_30_11 1
+ y31_11 OBJ 1
+ y31_11 sum_of_demand_11 1
+ y31_11 opened_facilities_demands_31_11 1
+ y32_11 OBJ 1
+ y32_11 sum_of_demand_11 1
+ y32_11 opened_facilities_demands_32_11 1
+ y33_11 OBJ 1
+ y33_11 sum_of_demand_11 1
+ y33_11 opened_facilities_demands_33_11 1
+ y34_11 OBJ 1
+ y34_11 sum_of_demand_11 1
+ y34_11 opened_facilities_demands_34_11 1
+ y35_11 OBJ 1
+ y35_11 sum_of_demand_11 1
+ y35_11 opened_facilities_demands_35_11 1
+ y36_11 OBJ 1
+ y36_11 sum_of_demand_11 1
+ y36_11 opened_facilities_demands_36_11 1
+ y37_11 OBJ 1
+ y37_11 sum_of_demand_11 1
+ y37_11 opened_facilities_demands_37_11 1
+ y38_11 OBJ 1
+ y38_11 sum_of_demand_11 1
+ y38_11 opened_facilities_demands_38_11 1
+ y39_11 OBJ 1
+ y39_11 sum_of_demand_11 1
+ y39_11 opened_facilities_demands_39_11 1
+ y0_12 OBJ 1
+ y0_12 sum_of_demand_12 1
+ y0_12 facilities_demands_0_12 1
+ y1_12 OBJ 1
+ y1_12 sum_of_demand_12 1
+ y1_12 facilities_demands_1_12 1
+ y2_12 OBJ 1
+ y2_12 sum_of_demand_12 1
+ y2_12 facilities_demands_2_12 1
+ y3_12 OBJ 1
+ y3_12 sum_of_demand_12 1
+ y3_12 facilities_demands_3_12 1
+ y4_12 OBJ 1
+ y4_12 sum_of_demand_12 1
+ y4_12 facilities_demands_4_12 1
+ y5_12 OBJ 1
+ y5_12 sum_of_demand_12 1
+ y5_12 facilities_demands_5_12 1
+ y6_12 OBJ 1
+ y6_12 sum_of_demand_12 1
+ y6_12 facilities_demands_6_12 1
+ y7_12 OBJ 1
+ y7_12 sum_of_demand_12 1
+ y7_12 facilities_demands_7_12 1
+ y8_12 OBJ 1
+ y8_12 sum_of_demand_12 1
+ y8_12 facilities_demands_8_12 1
+ y9_12 OBJ 1
+ y9_12 sum_of_demand_12 1
+ y9_12 facilities_demands_9_12 1
+ y10_12 OBJ 1
+ y10_12 sum_of_demand_12 1
+ y10_12 facilities_demands_10_12 1
+ y11_12 OBJ 1
+ y11_12 sum_of_demand_12 1
+ y11_12 facilities_demands_11_12 1
+ y12_12 OBJ 1
+ y12_12 sum_of_demand_12 1
+ y12_12 facilities_demands_12_12 1
+ y13_12 OBJ 1
+ y13_12 sum_of_demand_12 1
+ y13_12 facilities_demands_13_12 1
+ y14_12 OBJ 1
+ y14_12 sum_of_demand_12 1
+ y14_12 facilities_demands_14_12 1
+ y15_12 OBJ 1
+ y15_12 sum_of_demand_12 1
+ y15_12 facilities_demands_15_12 1
+ y16_12 OBJ 1
+ y16_12 sum_of_demand_12 1
+ y16_12 facilities_demands_16_12 1
+ y17_12 OBJ 1
+ y17_12 sum_of_demand_12 1
+ y17_12 facilities_demands_17_12 1
+ y18_12 OBJ 1
+ y18_12 sum_of_demand_12 1
+ y18_12 facilities_demands_18_12 1
+ y19_12 OBJ 1
+ y19_12 sum_of_demand_12 1
+ y19_12 facilities_demands_19_12 1
+ y20_12 OBJ 1
+ y20_12 sum_of_demand_12 1
+ y20_12 facilities_demands_20_12 1
+ y21_12 OBJ 1
+ y21_12 sum_of_demand_12 1
+ y21_12 facilities_demands_21_12 1
+ y22_12 OBJ 1
+ y22_12 sum_of_demand_12 1
+ y22_12 facilities_demands_22_12 1
+ y23_12 OBJ 1
+ y23_12 sum_of_demand_12 1
+ y23_12 facilities_demands_23_12 1
+ y24_12 OBJ 1
+ y24_12 sum_of_demand_12 1
+ y24_12 facilities_demands_24_12 1
+ y25_12 OBJ 1
+ y25_12 sum_of_demand_12 1
+ y25_12 facilities_demands_25_12 1
+ y26_12 OBJ 1
+ y26_12 sum_of_demand_12 1
+ y26_12 facilities_demands_26_12 1
+ y27_12 OBJ 1
+ y27_12 sum_of_demand_12 1
+ y27_12 facilities_demands_27_12 1
+ y28_12 OBJ 1
+ y28_12 sum_of_demand_12 1
+ y28_12 facilities_demands_28_12 1
+ y29_12 OBJ 1
+ y29_12 sum_of_demand_12 1
+ y29_12 facilities_demands_29_12 1
+ y30_12 OBJ 1
+ y30_12 sum_of_demand_12 1
+ y30_12 opened_facilities_demands_30_12 1
+ y31_12 OBJ 1
+ y31_12 sum_of_demand_12 1
+ y31_12 opened_facilities_demands_31_12 1
+ y32_12 OBJ 1
+ y32_12 sum_of_demand_12 1
+ y32_12 opened_facilities_demands_32_12 1
+ y33_12 OBJ 1
+ y33_12 sum_of_demand_12 1
+ y33_12 opened_facilities_demands_33_12 1
+ y34_12 OBJ 1
+ y34_12 sum_of_demand_12 1
+ y34_12 opened_facilities_demands_34_12 1
+ y35_12 OBJ 1
+ y35_12 sum_of_demand_12 1
+ y35_12 opened_facilities_demands_35_12 1
+ y36_12 OBJ 1
+ y36_12 sum_of_demand_12 1
+ y36_12 opened_facilities_demands_36_12 1
+ y37_12 OBJ 1
+ y37_12 sum_of_demand_12 1
+ y37_12 opened_facilities_demands_37_12 1
+ y38_12 OBJ 1
+ y38_12 sum_of_demand_12 1
+ y38_12 opened_facilities_demands_38_12 1
+ y39_12 OBJ 1
+ y39_12 sum_of_demand_12 1
+ y39_12 opened_facilities_demands_39_12 1
+ y0_13 OBJ 1
+ y0_13 sum_of_demand_13 1
+ y0_13 facilities_demands_0_13 1
+ y1_13 OBJ 1
+ y1_13 sum_of_demand_13 1
+ y1_13 facilities_demands_1_13 1
+ y2_13 OBJ 1
+ y2_13 sum_of_demand_13 1
+ y2_13 facilities_demands_2_13 1
+ y3_13 OBJ 1
+ y3_13 sum_of_demand_13 1
+ y3_13 facilities_demands_3_13 1
+ y4_13 OBJ 1
+ y4_13 sum_of_demand_13 1
+ y4_13 facilities_demands_4_13 1
+ y5_13 OBJ 1
+ y5_13 sum_of_demand_13 1
+ y5_13 facilities_demands_5_13 1
+ y6_13 OBJ 1
+ y6_13 sum_of_demand_13 1
+ y6_13 facilities_demands_6_13 1
+ y7_13 OBJ 1
+ y7_13 sum_of_demand_13 1
+ y7_13 facilities_demands_7_13 1
+ y8_13 OBJ 1
+ y8_13 sum_of_demand_13 1
+ y8_13 facilities_demands_8_13 1
+ y9_13 OBJ 1
+ y9_13 sum_of_demand_13 1
+ y9_13 facilities_demands_9_13 1
+ y10_13 OBJ 1
+ y10_13 sum_of_demand_13 1
+ y10_13 facilities_demands_10_13 1
+ y11_13 OBJ 1
+ y11_13 sum_of_demand_13 1
+ y11_13 facilities_demands_11_13 1
+ y12_13 OBJ 1
+ y12_13 sum_of_demand_13 1
+ y12_13 facilities_demands_12_13 1
+ y13_13 OBJ 1
+ y13_13 sum_of_demand_13 1
+ y13_13 facilities_demands_13_13 1
+ y14_13 OBJ 1
+ y14_13 sum_of_demand_13 1
+ y14_13 facilities_demands_14_13 1
+ y15_13 OBJ 1
+ y15_13 sum_of_demand_13 1
+ y15_13 facilities_demands_15_13 1
+ y16_13 OBJ 1
+ y16_13 sum_of_demand_13 1
+ y16_13 facilities_demands_16_13 1
+ y17_13 OBJ 1
+ y17_13 sum_of_demand_13 1
+ y17_13 facilities_demands_17_13 1
+ y18_13 OBJ 1
+ y18_13 sum_of_demand_13 1
+ y18_13 facilities_demands_18_13 1
+ y19_13 OBJ 1
+ y19_13 sum_of_demand_13 1
+ y19_13 facilities_demands_19_13 1
+ y20_13 OBJ 1
+ y20_13 sum_of_demand_13 1
+ y20_13 facilities_demands_20_13 1
+ y21_13 OBJ 1
+ y21_13 sum_of_demand_13 1
+ y21_13 facilities_demands_21_13 1
+ y22_13 OBJ 1
+ y22_13 sum_of_demand_13 1
+ y22_13 facilities_demands_22_13 1
+ y23_13 OBJ 1
+ y23_13 sum_of_demand_13 1
+ y23_13 facilities_demands_23_13 1
+ y24_13 OBJ 1
+ y24_13 sum_of_demand_13 1
+ y24_13 facilities_demands_24_13 1
+ y25_13 OBJ 1
+ y25_13 sum_of_demand_13 1
+ y25_13 facilities_demands_25_13 1
+ y26_13 OBJ 1
+ y26_13 sum_of_demand_13 1
+ y26_13 facilities_demands_26_13 1
+ y27_13 OBJ 1
+ y27_13 sum_of_demand_13 1
+ y27_13 facilities_demands_27_13 1
+ y28_13 OBJ 1
+ y28_13 sum_of_demand_13 1
+ y28_13 facilities_demands_28_13 1
+ y29_13 OBJ 1
+ y29_13 sum_of_demand_13 1
+ y29_13 facilities_demands_29_13 1
+ y30_13 OBJ 1
+ y30_13 sum_of_demand_13 1
+ y30_13 opened_facilities_demands_30_13 1
+ y31_13 OBJ 1
+ y31_13 sum_of_demand_13 1
+ y31_13 opened_facilities_demands_31_13 1
+ y32_13 OBJ 1
+ y32_13 sum_of_demand_13 1
+ y32_13 opened_facilities_demands_32_13 1
+ y33_13 OBJ 1
+ y33_13 sum_of_demand_13 1
+ y33_13 opened_facilities_demands_33_13 1
+ y34_13 OBJ 1
+ y34_13 sum_of_demand_13 1
+ y34_13 opened_facilities_demands_34_13 1
+ y35_13 OBJ 1
+ y35_13 sum_of_demand_13 1
+ y35_13 opened_facilities_demands_35_13 1
+ y36_13 OBJ 1
+ y36_13 sum_of_demand_13 1
+ y36_13 opened_facilities_demands_36_13 1
+ y37_13 OBJ 1
+ y37_13 sum_of_demand_13 1
+ y37_13 opened_facilities_demands_37_13 1
+ y38_13 OBJ 1
+ y38_13 sum_of_demand_13 1
+ y38_13 opened_facilities_demands_38_13 1
+ y39_13 OBJ 1
+ y39_13 sum_of_demand_13 1
+ y39_13 opened_facilities_demands_39_13 1
+ y0_14 OBJ 1
+ y0_14 sum_of_demand_14 1
+ y0_14 facilities_demands_0_14 1
+ y1_14 OBJ 1
+ y1_14 sum_of_demand_14 1
+ y1_14 facilities_demands_1_14 1
+ y2_14 OBJ 1
+ y2_14 sum_of_demand_14 1
+ y2_14 facilities_demands_2_14 1
+ y3_14 OBJ 1
+ y3_14 sum_of_demand_14 1
+ y3_14 facilities_demands_3_14 1
+ y4_14 OBJ 1
+ y4_14 sum_of_demand_14 1
+ y4_14 facilities_demands_4_14 1
+ y5_14 OBJ 1
+ y5_14 sum_of_demand_14 1
+ y5_14 facilities_demands_5_14 1
+ y6_14 OBJ 1
+ y6_14 sum_of_demand_14 1
+ y6_14 facilities_demands_6_14 1
+ y7_14 OBJ 1
+ y7_14 sum_of_demand_14 1
+ y7_14 facilities_demands_7_14 1
+ y8_14 OBJ 1
+ y8_14 sum_of_demand_14 1
+ y8_14 facilities_demands_8_14 1
+ y9_14 OBJ 1
+ y9_14 sum_of_demand_14 1
+ y9_14 facilities_demands_9_14 1
+ y10_14 OBJ 1
+ y10_14 sum_of_demand_14 1
+ y10_14 facilities_demands_10_14 1
+ y11_14 OBJ 1
+ y11_14 sum_of_demand_14 1
+ y11_14 facilities_demands_11_14 1
+ y12_14 OBJ 1
+ y12_14 sum_of_demand_14 1
+ y12_14 facilities_demands_12_14 1
+ y13_14 OBJ 1
+ y13_14 sum_of_demand_14 1
+ y13_14 facilities_demands_13_14 1
+ y14_14 OBJ 1
+ y14_14 sum_of_demand_14 1
+ y14_14 facilities_demands_14_14 1
+ y15_14 OBJ 1
+ y15_14 sum_of_demand_14 1
+ y15_14 facilities_demands_15_14 1
+ y16_14 OBJ 1
+ y16_14 sum_of_demand_14 1
+ y16_14 facilities_demands_16_14 1
+ y17_14 OBJ 1
+ y17_14 sum_of_demand_14 1
+ y17_14 facilities_demands_17_14 1
+ y18_14 OBJ 1
+ y18_14 sum_of_demand_14 1
+ y18_14 facilities_demands_18_14 1
+ y19_14 OBJ 1
+ y19_14 sum_of_demand_14 1
+ y19_14 facilities_demands_19_14 1
+ y20_14 OBJ 1
+ y20_14 sum_of_demand_14 1
+ y20_14 facilities_demands_20_14 1
+ y21_14 OBJ 1
+ y21_14 sum_of_demand_14 1
+ y21_14 facilities_demands_21_14 1
+ y22_14 OBJ 1
+ y22_14 sum_of_demand_14 1
+ y22_14 facilities_demands_22_14 1
+ y23_14 OBJ 1
+ y23_14 sum_of_demand_14 1
+ y23_14 facilities_demands_23_14 1
+ y24_14 OBJ 1
+ y24_14 sum_of_demand_14 1
+ y24_14 facilities_demands_24_14 1
+ y25_14 OBJ 1
+ y25_14 sum_of_demand_14 1
+ y25_14 facilities_demands_25_14 1
+ y26_14 OBJ 1
+ y26_14 sum_of_demand_14 1
+ y26_14 facilities_demands_26_14 1
+ y27_14 OBJ 1
+ y27_14 sum_of_demand_14 1
+ y27_14 facilities_demands_27_14 1
+ y28_14 OBJ 1
+ y28_14 sum_of_demand_14 1
+ y28_14 facilities_demands_28_14 1
+ y29_14 OBJ 1
+ y29_14 sum_of_demand_14 1
+ y29_14 facilities_demands_29_14 1
+ y30_14 OBJ 1
+ y30_14 sum_of_demand_14 1
+ y30_14 opened_facilities_demands_30_14 1
+ y31_14 OBJ 1
+ y31_14 sum_of_demand_14 1
+ y31_14 opened_facilities_demands_31_14 1
+ y32_14 OBJ 1
+ y32_14 sum_of_demand_14 1
+ y32_14 opened_facilities_demands_32_14 1
+ y33_14 OBJ 1
+ y33_14 sum_of_demand_14 1
+ y33_14 opened_facilities_demands_33_14 1
+ y34_14 OBJ 1
+ y34_14 sum_of_demand_14 1
+ y34_14 opened_facilities_demands_34_14 1
+ y35_14 OBJ 1
+ y35_14 sum_of_demand_14 1
+ y35_14 opened_facilities_demands_35_14 1
+ y36_14 OBJ 1
+ y36_14 sum_of_demand_14 1
+ y36_14 opened_facilities_demands_36_14 1
+ y37_14 OBJ 1
+ y37_14 sum_of_demand_14 1
+ y37_14 opened_facilities_demands_37_14 1
+ y38_14 OBJ 1
+ y38_14 sum_of_demand_14 1
+ y38_14 opened_facilities_demands_38_14 1
+ y39_14 OBJ 1
+ y39_14 sum_of_demand_14 1
+ y39_14 opened_facilities_demands_39_14 1
+RHS 
+ RHS sum_of_facilities 1
+ RHS sum_of_facilities_less_than 20
+ RHS sum_of_demand_0 1
+ RHS sum_of_demand_1 1
+ RHS sum_of_demand_2 1
+ RHS sum_of_demand_3 1
+ RHS sum_of_demand_4 1
+ RHS sum_of_demand_5 1
+ RHS sum_of_demand_6 1
+ RHS sum_of_demand_7 1
+ RHS sum_of_demand_8 1
+ RHS sum_of_demand_9 1
+ RHS sum_of_demand_10 1
+ RHS sum_of_demand_11 1
+ RHS sum_of_demand_12 1
+ RHS sum_of_demand_13 1
+ RHS sum_of_demand_14 1
+ RHS facilities_demands_0_0 0
+ RHS facilities_demands_0_1 0
+ RHS facilities_demands_0_2 0
+ RHS facilities_demands_0_3 0
+ RHS facilities_demands_0_4 0
+ RHS facilities_demands_0_5 0
+ RHS facilities_demands_0_6 0
+ RHS facilities_demands_0_7 0
+ RHS facilities_demands_0_8 0
+ RHS facilities_demands_0_9 0
+ RHS facilities_demands_0_10 0
+ RHS facilities_demands_0_11 0
+ RHS facilities_demands_0_12 0
+ RHS facilities_demands_0_13 0
+ RHS facilities_demands_0_14 0
+ RHS facilities_demands_1_0 0
+ RHS facilities_demands_1_1 0
+ RHS facilities_demands_1_2 0
+ RHS facilities_demands_1_3 0
+ RHS facilities_demands_1_4 0
+ RHS facilities_demands_1_5 0
+ RHS facilities_demands_1_6 0
+ RHS facilities_demands_1_7 0
+ RHS facilities_demands_1_8 0
+ RHS facilities_demands_1_9 0
+ RHS facilities_demands_1_10 0
+ RHS facilities_demands_1_11 0
+ RHS facilities_demands_1_12 0
+ RHS facilities_demands_1_13 0
+ RHS facilities_demands_1_14 0
+ RHS facilities_demands_2_0 0
+ RHS facilities_demands_2_1 0
+ RHS facilities_demands_2_2 0
+ RHS facilities_demands_2_3 0
+ RHS facilities_demands_2_4 0
+ RHS facilities_demands_2_5 0
+ RHS facilities_demands_2_6 0
+ RHS facilities_demands_2_7 0
+ RHS facilities_demands_2_8 0
+ RHS facilities_demands_2_9 0
+ RHS facilities_demands_2_10 0
+ RHS facilities_demands_2_11 0
+ RHS facilities_demands_2_12 0
+ RHS facilities_demands_2_13 0
+ RHS facilities_demands_2_14 0
+ RHS facilities_demands_3_0 0
+ RHS facilities_demands_3_1 0
+ RHS facilities_demands_3_2 0
+ RHS facilities_demands_3_3 0
+ RHS facilities_demands_3_4 0
+ RHS facilities_demands_3_5 0
+ RHS facilities_demands_3_6 0
+ RHS facilities_demands_3_7 0
+ RHS facilities_demands_3_8 0
+ RHS facilities_demands_3_9 0
+ RHS facilities_demands_3_10 0
+ RHS facilities_demands_3_11 0
+ RHS facilities_demands_3_12 0
+ RHS facilities_demands_3_13 0
+ RHS facilities_demands_3_14 0
+ RHS facilities_demands_4_0 0
+ RHS facilities_demands_4_1 0
+ RHS facilities_demands_4_2 0
+ RHS facilities_demands_4_3 0
+ RHS facilities_demands_4_4 0
+ RHS facilities_demands_4_5 0
+ RHS facilities_demands_4_6 0
+ RHS facilities_demands_4_7 0
+ RHS facilities_demands_4_8 0
+ RHS facilities_demands_4_9 0
+ RHS facilities_demands_4_10 0
+ RHS facilities_demands_4_11 0
+ RHS facilities_demands_4_12 0
+ RHS facilities_demands_4_13 0
+ RHS facilities_demands_4_14 0
+ RHS facilities_demands_5_0 0
+ RHS facilities_demands_5_1 0
+ RHS facilities_demands_5_2 0
+ RHS facilities_demands_5_3 0
+ RHS facilities_demands_5_4 0
+ RHS facilities_demands_5_5 0
+ RHS facilities_demands_5_6 0
+ RHS facilities_demands_5_7 0
+ RHS facilities_demands_5_8 0
+ RHS facilities_demands_5_9 0
+ RHS facilities_demands_5_10 0
+ RHS facilities_demands_5_11 0
+ RHS facilities_demands_5_12 0
+ RHS facilities_demands_5_13 0
+ RHS facilities_demands_5_14 0
+ RHS facilities_demands_6_0 0
+ RHS facilities_demands_6_1 0
+ RHS facilities_demands_6_2 0
+ RHS facilities_demands_6_3 0
+ RHS facilities_demands_6_4 0
+ RHS facilities_demands_6_5 0
+ RHS facilities_demands_6_6 0
+ RHS facilities_demands_6_7 0
+ RHS facilities_demands_6_8 0
+ RHS facilities_demands_6_9 0
+ RHS facilities_demands_6_10 0
+ RHS facilities_demands_6_11 0
+ RHS facilities_demands_6_12 0
+ RHS facilities_demands_6_13 0
+ RHS facilities_demands_6_14 0
+ RHS facilities_demands_7_0 0
+ RHS facilities_demands_7_1 0
+ RHS facilities_demands_7_2 0
+ RHS facilities_demands_7_3 0
+ RHS facilities_demands_7_4 0
+ RHS facilities_demands_7_5 0
+ RHS facilities_demands_7_6 0
+ RHS facilities_demands_7_7 0
+ RHS facilities_demands_7_8 0
+ RHS facilities_demands_7_9 0
+ RHS facilities_demands_7_10 0
+ RHS facilities_demands_7_11 0
+ RHS facilities_demands_7_12 0
+ RHS facilities_demands_7_13 0
+ RHS facilities_demands_7_14 0
+ RHS facilities_demands_8_0 0
+ RHS facilities_demands_8_1 0
+ RHS facilities_demands_8_2 0
+ RHS facilities_demands_8_3 0
+ RHS facilities_demands_8_4 0
+ RHS facilities_demands_8_5 0
+ RHS facilities_demands_8_6 0
+ RHS facilities_demands_8_7 0
+ RHS facilities_demands_8_8 0
+ RHS facilities_demands_8_9 0
+ RHS facilities_demands_8_10 0
+ RHS facilities_demands_8_11 0
+ RHS facilities_demands_8_12 0
+ RHS facilities_demands_8_13 0
+ RHS facilities_demands_8_14 0
+ RHS facilities_demands_9_0 0
+ RHS facilities_demands_9_1 0
+ RHS facilities_demands_9_2 0
+ RHS facilities_demands_9_3 0
+ RHS facilities_demands_9_4 0
+ RHS facilities_demands_9_5 0
+ RHS facilities_demands_9_6 0
+ RHS facilities_demands_9_7 0
+ RHS facilities_demands_9_8 0
+ RHS facilities_demands_9_9 0
+ RHS facilities_demands_9_10 0
+ RHS facilities_demands_9_11 0
+ RHS facilities_demands_9_12 0
+ RHS facilities_demands_9_13 0
+ RHS facilities_demands_9_14 0
+ RHS facilities_demands_10_0 0
+ RHS facilities_demands_10_1 0
+ RHS facilities_demands_10_2 0
+ RHS facilities_demands_10_3 0
+ RHS facilities_demands_10_4 0
+ RHS facilities_demands_10_5 0
+ RHS facilities_demands_10_6 0
+ RHS facilities_demands_10_7 0
+ RHS facilities_demands_10_8 0
+ RHS facilities_demands_10_9 0
+ RHS facilities_demands_10_10 0
+ RHS facilities_demands_10_11 0
+ RHS facilities_demands_10_12 0
+ RHS facilities_demands_10_13 0
+ RHS facilities_demands_10_14 0
+ RHS facilities_demands_11_0 0
+ RHS facilities_demands_11_1 0
+ RHS facilities_demands_11_2 0
+ RHS facilities_demands_11_3 0
+ RHS facilities_demands_11_4 0
+ RHS facilities_demands_11_5 0
+ RHS facilities_demands_11_6 0
+ RHS facilities_demands_11_7 0
+ RHS facilities_demands_11_8 0
+ RHS facilities_demands_11_9 0
+ RHS facilities_demands_11_10 0
+ RHS facilities_demands_11_11 0
+ RHS facilities_demands_11_12 0
+ RHS facilities_demands_11_13 0
+ RHS facilities_demands_11_14 0
+ RHS facilities_demands_12_0 0
+ RHS facilities_demands_12_1 0
+ RHS facilities_demands_12_2 0
+ RHS facilities_demands_12_3 0
+ RHS facilities_demands_12_4 0
+ RHS facilities_demands_12_5 0
+ RHS facilities_demands_12_6 0
+ RHS facilities_demands_12_7 0
+ RHS facilities_demands_12_8 0
+ RHS facilities_demands_12_9 0
+ RHS facilities_demands_12_10 0
+ RHS facilities_demands_12_11 0
+ RHS facilities_demands_12_12 0
+ RHS facilities_demands_12_13 0
+ RHS facilities_demands_12_14 0
+ RHS facilities_demands_13_0 0
+ RHS facilities_demands_13_1 0
+ RHS facilities_demands_13_2 0
+ RHS facilities_demands_13_3 0
+ RHS facilities_demands_13_4 0
+ RHS facilities_demands_13_5 0
+ RHS facilities_demands_13_6 0
+ RHS facilities_demands_13_7 0
+ RHS facilities_demands_13_8 0
+ RHS facilities_demands_13_9 0
+ RHS facilities_demands_13_10 0
+ RHS facilities_demands_13_11 0
+ RHS facilities_demands_13_12 0
+ RHS facilities_demands_13_13 0
+ RHS facilities_demands_13_14 0
+ RHS facilities_demands_14_0 0
+ RHS facilities_demands_14_1 0
+ RHS facilities_demands_14_2 0
+ RHS facilities_demands_14_3 0
+ RHS facilities_demands_14_4 0
+ RHS facilities_demands_14_5 0
+ RHS facilities_demands_14_6 0
+ RHS facilities_demands_14_7 0
+ RHS facilities_demands_14_8 0
+ RHS facilities_demands_14_9 0
+ RHS facilities_demands_14_10 0
+ RHS facilities_demands_14_11 0
+ RHS facilities_demands_14_12 0
+ RHS facilities_demands_14_13 0
+ RHS facilities_demands_14_14 0
+ RHS facilities_demands_15_0 0
+ RHS facilities_demands_15_1 0
+ RHS facilities_demands_15_2 0
+ RHS facilities_demands_15_3 0
+ RHS facilities_demands_15_4 0
+ RHS facilities_demands_15_5 0
+ RHS facilities_demands_15_6 0
+ RHS facilities_demands_15_7 0
+ RHS facilities_demands_15_8 0
+ RHS facilities_demands_15_9 0
+ RHS facilities_demands_15_10 0
+ RHS facilities_demands_15_11 0
+ RHS facilities_demands_15_12 0
+ RHS facilities_demands_15_13 0
+ RHS facilities_demands_15_14 0
+ RHS facilities_demands_16_0 0
+ RHS facilities_demands_16_1 0
+ RHS facilities_demands_16_2 0
+ RHS facilities_demands_16_3 0
+ RHS facilities_demands_16_4 0
+ RHS facilities_demands_16_5 0
+ RHS facilities_demands_16_6 0
+ RHS facilities_demands_16_7 0
+ RHS facilities_demands_16_8 0
+ RHS facilities_demands_16_9 0
+ RHS facilities_demands_16_10 0
+ RHS facilities_demands_16_11 0
+ RHS facilities_demands_16_12 0
+ RHS facilities_demands_16_13 0
+ RHS facilities_demands_16_14 0
+ RHS facilities_demands_17_0 0
+ RHS facilities_demands_17_1 0
+ RHS facilities_demands_17_2 0
+ RHS facilities_demands_17_3 0
+ RHS facilities_demands_17_4 0
+ RHS facilities_demands_17_5 0
+ RHS facilities_demands_17_6 0
+ RHS facilities_demands_17_7 0
+ RHS facilities_demands_17_8 0
+ RHS facilities_demands_17_9 0
+ RHS facilities_demands_17_10 0
+ RHS facilities_demands_17_11 0
+ RHS facilities_demands_17_12 0
+ RHS facilities_demands_17_13 0
+ RHS facilities_demands_17_14 0
+ RHS facilities_demands_18_0 0
+ RHS facilities_demands_18_1 0
+ RHS facilities_demands_18_2 0
+ RHS facilities_demands_18_3 0
+ RHS facilities_demands_18_4 0
+ RHS facilities_demands_18_5 0
+ RHS facilities_demands_18_6 0
+ RHS facilities_demands_18_7 0
+ RHS facilities_demands_18_8 0
+ RHS facilities_demands_18_9 0
+ RHS facilities_demands_18_10 0
+ RHS facilities_demands_18_11 0
+ RHS facilities_demands_18_12 0
+ RHS facilities_demands_18_13 0
+ RHS facilities_demands_18_14 0
+ RHS facilities_demands_19_0 0
+ RHS facilities_demands_19_1 0
+ RHS facilities_demands_19_2 0
+ RHS facilities_demands_19_3 0
+ RHS facilities_demands_19_4 0
+ RHS facilities_demands_19_5 0
+ RHS facilities_demands_19_6 0
+ RHS facilities_demands_19_7 0
+ RHS facilities_demands_19_8 0
+ RHS facilities_demands_19_9 0
+ RHS facilities_demands_19_10 0
+ RHS facilities_demands_19_11 0
+ RHS facilities_demands_19_12 0
+ RHS facilities_demands_19_13 0
+ RHS facilities_demands_19_14 0
+ RHS facilities_demands_20_0 0
+ RHS facilities_demands_20_1 0
+ RHS facilities_demands_20_2 0
+ RHS facilities_demands_20_3 0
+ RHS facilities_demands_20_4 0
+ RHS facilities_demands_20_5 0
+ RHS facilities_demands_20_6 0
+ RHS facilities_demands_20_7 0
+ RHS facilities_demands_20_8 0
+ RHS facilities_demands_20_9 0
+ RHS facilities_demands_20_10 0
+ RHS facilities_demands_20_11 0
+ RHS facilities_demands_20_12 0
+ RHS facilities_demands_20_13 0
+ RHS facilities_demands_20_14 0
+ RHS facilities_demands_21_0 0
+ RHS facilities_demands_21_1 0
+ RHS facilities_demands_21_2 0
+ RHS facilities_demands_21_3 0
+ RHS facilities_demands_21_4 0
+ RHS facilities_demands_21_5 0
+ RHS facilities_demands_21_6 0
+ RHS facilities_demands_21_7 0
+ RHS facilities_demands_21_8 0
+ RHS facilities_demands_21_9 0
+ RHS facilities_demands_21_10 0
+ RHS facilities_demands_21_11 0
+ RHS facilities_demands_21_12 0
+ RHS facilities_demands_21_13 0
+ RHS facilities_demands_21_14 0
+ RHS facilities_demands_22_0 0
+ RHS facilities_demands_22_1 0
+ RHS facilities_demands_22_2 0
+ RHS facilities_demands_22_3 0
+ RHS facilities_demands_22_4 0
+ RHS facilities_demands_22_5 0
+ RHS facilities_demands_22_6 0
+ RHS facilities_demands_22_7 0
+ RHS facilities_demands_22_8 0
+ RHS facilities_demands_22_9 0
+ RHS facilities_demands_22_10 0
+ RHS facilities_demands_22_11 0
+ RHS facilities_demands_22_12 0
+ RHS facilities_demands_22_13 0
+ RHS facilities_demands_22_14 0
+ RHS facilities_demands_23_0 0
+ RHS facilities_demands_23_1 0
+ RHS facilities_demands_23_2 0
+ RHS facilities_demands_23_3 0
+ RHS facilities_demands_23_4 0
+ RHS facilities_demands_23_5 0
+ RHS facilities_demands_23_6 0
+ RHS facilities_demands_23_7 0
+ RHS facilities_demands_23_8 0
+ RHS facilities_demands_23_9 0
+ RHS facilities_demands_23_10 0
+ RHS facilities_demands_23_11 0
+ RHS facilities_demands_23_12 0
+ RHS facilities_demands_23_13 0
+ RHS facilities_demands_23_14 0
+ RHS facilities_demands_24_0 0
+ RHS facilities_demands_24_1 0
+ RHS facilities_demands_24_2 0
+ RHS facilities_demands_24_3 0
+ RHS facilities_demands_24_4 0
+ RHS facilities_demands_24_5 0
+ RHS facilities_demands_24_6 0
+ RHS facilities_demands_24_7 0
+ RHS facilities_demands_24_8 0
+ RHS facilities_demands_24_9 0
+ RHS facilities_demands_24_10 0
+ RHS facilities_demands_24_11 0
+ RHS facilities_demands_24_12 0
+ RHS facilities_demands_24_13 0
+ RHS facilities_demands_24_14 0
+ RHS facilities_demands_25_0 0
+ RHS facilities_demands_25_1 0
+ RHS facilities_demands_25_2 0
+ RHS facilities_demands_25_3 0
+ RHS facilities_demands_25_4 0
+ RHS facilities_demands_25_5 0
+ RHS facilities_demands_25_6 0
+ RHS facilities_demands_25_7 0
+ RHS facilities_demands_25_8 0
+ RHS facilities_demands_25_9 0
+ RHS facilities_demands_25_10 0
+ RHS facilities_demands_25_11 0
+ RHS facilities_demands_25_12 0
+ RHS facilities_demands_25_13 0
+ RHS facilities_demands_25_14 0
+ RHS facilities_demands_26_0 0
+ RHS facilities_demands_26_1 0
+ RHS facilities_demands_26_2 0
+ RHS facilities_demands_26_3 0
+ RHS facilities_demands_26_4 0
+ RHS facilities_demands_26_5 0
+ RHS facilities_demands_26_6 0
+ RHS facilities_demands_26_7 0
+ RHS facilities_demands_26_8 0
+ RHS facilities_demands_26_9 0
+ RHS facilities_demands_26_10 0
+ RHS facilities_demands_26_11 0
+ RHS facilities_demands_26_12 0
+ RHS facilities_demands_26_13 0
+ RHS facilities_demands_26_14 0
+ RHS facilities_demands_27_0 0
+ RHS facilities_demands_27_1 0
+ RHS facilities_demands_27_2 0
+ RHS facilities_demands_27_3 0
+ RHS facilities_demands_27_4 0
+ RHS facilities_demands_27_5 0
+ RHS facilities_demands_27_6 0
+ RHS facilities_demands_27_7 0
+ RHS facilities_demands_27_8 0
+ RHS facilities_demands_27_9 0
+ RHS facilities_demands_27_10 0
+ RHS facilities_demands_27_11 0
+ RHS facilities_demands_27_12 0
+ RHS facilities_demands_27_13 0
+ RHS facilities_demands_27_14 0
+ RHS facilities_demands_28_0 0
+ RHS facilities_demands_28_1 0
+ RHS facilities_demands_28_2 0
+ RHS facilities_demands_28_3 0
+ RHS facilities_demands_28_4 0
+ RHS facilities_demands_28_5 0
+ RHS facilities_demands_28_6 0
+ RHS facilities_demands_28_7 0
+ RHS facilities_demands_28_8 0
+ RHS facilities_demands_28_9 0
+ RHS facilities_demands_28_10 0
+ RHS facilities_demands_28_11 0
+ RHS facilities_demands_28_12 0
+ RHS facilities_demands_28_13 0
+ RHS facilities_demands_28_14 0
+ RHS facilities_demands_29_0 0
+ RHS facilities_demands_29_1 0
+ RHS facilities_demands_29_2 0
+ RHS facilities_demands_29_3 0
+ RHS facilities_demands_29_4 0
+ RHS facilities_demands_29_5 0
+ RHS facilities_demands_29_6 0
+ RHS facilities_demands_29_7 0
+ RHS facilities_demands_29_8 0
+ RHS facilities_demands_29_9 0
+ RHS facilities_demands_29_10 0
+ RHS facilities_demands_29_11 0
+ RHS facilities_demands_29_12 0
+ RHS facilities_demands_29_13 0
+ RHS facilities_demands_29_14 0
+ RHS opened_facilities_demands_30_0 1
+ RHS opened_facilities_demands_30_1 1
+ RHS opened_facilities_demands_30_2 1
+ RHS opened_facilities_demands_30_3 1
+ RHS opened_facilities_demands_30_4 1
+ RHS opened_facilities_demands_30_5 1
+ RHS opened_facilities_demands_30_6 1
+ RHS opened_facilities_demands_30_7 1
+ RHS opened_facilities_demands_30_8 1
+ RHS opened_facilities_demands_30_9 1
+ RHS opened_facilities_demands_30_10 1
+ RHS opened_facilities_demands_30_11 1
+ RHS opened_facilities_demands_30_12 1
+ RHS opened_facilities_demands_30_13 1
+ RHS opened_facilities_demands_30_14 1
+ RHS opened_facilities_demands_31_0 1
+ RHS opened_facilities_demands_31_1 1
+ RHS opened_facilities_demands_31_2 1
+ RHS opened_facilities_demands_31_3 1
+ RHS opened_facilities_demands_31_4 1
+ RHS opened_facilities_demands_31_5 1
+ RHS opened_facilities_demands_31_6 1
+ RHS opened_facilities_demands_31_7 1
+ RHS opened_facilities_demands_31_8 1
+ RHS opened_facilities_demands_31_9 1
+ RHS opened_facilities_demands_31_10 1
+ RHS opened_facilities_demands_31_11 1
+ RHS opened_facilities_demands_31_12 1
+ RHS opened_facilities_demands_31_13 1
+ RHS opened_facilities_demands_31_14 1
+ RHS opened_facilities_demands_32_0 1
+ RHS opened_facilities_demands_32_1 1
+ RHS opened_facilities_demands_32_2 1
+ RHS opened_facilities_demands_32_3 1
+ RHS opened_facilities_demands_32_4 1
+ RHS opened_facilities_demands_32_5 1
+ RHS opened_facilities_demands_32_6 1
+ RHS opened_facilities_demands_32_7 1
+ RHS opened_facilities_demands_32_8 1
+ RHS opened_facilities_demands_32_9 1
+ RHS opened_facilities_demands_32_10 1
+ RHS opened_facilities_demands_32_11 1
+ RHS opened_facilities_demands_32_12 1
+ RHS opened_facilities_demands_32_13 1
+ RHS opened_facilities_demands_32_14 1
+ RHS opened_facilities_demands_33_0 1
+ RHS opened_facilities_demands_33_1 1
+ RHS opened_facilities_demands_33_2 1
+ RHS opened_facilities_demands_33_3 1
+ RHS opened_facilities_demands_33_4 1
+ RHS opened_facilities_demands_33_5 1
+ RHS opened_facilities_demands_33_6 1
+ RHS opened_facilities_demands_33_7 1
+ RHS opened_facilities_demands_33_8 1
+ RHS opened_facilities_demands_33_9 1
+ RHS opened_facilities_demands_33_10 1
+ RHS opened_facilities_demands_33_11 1
+ RHS opened_facilities_demands_33_12 1
+ RHS opened_facilities_demands_33_13 1
+ RHS opened_facilities_demands_33_14 1
+ RHS opened_facilities_demands_34_0 1
+ RHS opened_facilities_demands_34_1 1
+ RHS opened_facilities_demands_34_2 1
+ RHS opened_facilities_demands_34_3 1
+ RHS opened_facilities_demands_34_4 1
+ RHS opened_facilities_demands_34_5 1
+ RHS opened_facilities_demands_34_6 1
+ RHS opened_facilities_demands_34_7 1
+ RHS opened_facilities_demands_34_8 1
+ RHS opened_facilities_demands_34_9 1
+ RHS opened_facilities_demands_34_10 1
+ RHS opened_facilities_demands_34_11 1
+ RHS opened_facilities_demands_34_12 1
+ RHS opened_facilities_demands_34_13 1
+ RHS opened_facilities_demands_34_14 1
+ RHS opened_facilities_demands_35_0 1
+ RHS opened_facilities_demands_35_1 1
+ RHS opened_facilities_demands_35_2 1
+ RHS opened_facilities_demands_35_3 1
+ RHS opened_facilities_demands_35_4 1
+ RHS opened_facilities_demands_35_5 1
+ RHS opened_facilities_demands_35_6 1
+ RHS opened_facilities_demands_35_7 1
+ RHS opened_facilities_demands_35_8 1
+ RHS opened_facilities_demands_35_9 1
+ RHS opened_facilities_demands_35_10 1
+ RHS opened_facilities_demands_35_11 1
+ RHS opened_facilities_demands_35_12 1
+ RHS opened_facilities_demands_35_13 1
+ RHS opened_facilities_demands_35_14 1
+ RHS opened_facilities_demands_36_0 1
+ RHS opened_facilities_demands_36_1 1
+ RHS opened_facilities_demands_36_2 1
+ RHS opened_facilities_demands_36_3 1
+ RHS opened_facilities_demands_36_4 1
+ RHS opened_facilities_demands_36_5 1
+ RHS opened_facilities_demands_36_6 1
+ RHS opened_facilities_demands_36_7 1
+ RHS opened_facilities_demands_36_8 1
+ RHS opened_facilities_demands_36_9 1
+ RHS opened_facilities_demands_36_10 1
+ RHS opened_facilities_demands_36_11 1
+ RHS opened_facilities_demands_36_12 1
+ RHS opened_facilities_demands_36_13 1
+ RHS opened_facilities_demands_36_14 1
+ RHS opened_facilities_demands_37_0 1
+ RHS opened_facilities_demands_37_1 1
+ RHS opened_facilities_demands_37_2 1
+ RHS opened_facilities_demands_37_3 1
+ RHS opened_facilities_demands_37_4 1
+ RHS opened_facilities_demands_37_5 1
+ RHS opened_facilities_demands_37_6 1
+ RHS opened_facilities_demands_37_7 1
+ RHS opened_facilities_demands_37_8 1
+ RHS opened_facilities_demands_37_9 1
+ RHS opened_facilities_demands_37_10 1
+ RHS opened_facilities_demands_37_11 1
+ RHS opened_facilities_demands_37_12 1
+ RHS opened_facilities_demands_37_13 1
+ RHS opened_facilities_demands_37_14 1
+ RHS opened_facilities_demands_38_0 1
+ RHS opened_facilities_demands_38_1 1
+ RHS opened_facilities_demands_38_2 1
+ RHS opened_facilities_demands_38_3 1
+ RHS opened_facilities_demands_38_4 1
+ RHS opened_facilities_demands_38_5 1
+ RHS opened_facilities_demands_38_6 1
+ RHS opened_facilities_demands_38_7 1
+ RHS opened_facilities_demands_38_8 1
+ RHS opened_facilities_demands_38_9 1
+ RHS opened_facilities_demands_38_10 1
+ RHS opened_facilities_demands_38_11 1
+ RHS opened_facilities_demands_38_12 1
+ RHS opened_facilities_demands_38_13 1
+ RHS opened_facilities_demands_38_14 1
+ RHS opened_facilities_demands_39_0 1
+ RHS opened_facilities_demands_39_1 1
+ RHS opened_facilities_demands_39_2 1
+ RHS opened_facilities_demands_39_3 1
+ RHS opened_facilities_demands_39_4 1
+ RHS opened_facilities_demands_39_5 1
+ RHS opened_facilities_demands_39_6 1
+ RHS opened_facilities_demands_39_7 1
+ RHS opened_facilities_demands_39_8 1
+ RHS opened_facilities_demands_39_9 1
+ RHS opened_facilities_demands_39_10 1
+ RHS opened_facilities_demands_39_11 1
+ RHS opened_facilities_demands_39_12 1
+ RHS opened_facilities_demands_39_13 1
+ RHS opened_facilities_demands_39_14 1
+BOUNDS 
+ BV BOUND x0
+ BV BOUND x1
+ BV BOUND x2
+ BV BOUND x3
+ BV BOUND x4
+ BV BOUND x5
+ BV BOUND x6
+ BV BOUND x7
+ BV BOUND x8
+ BV BOUND x9
+ BV BOUND x10
+ BV BOUND x11
+ BV BOUND x12
+ BV BOUND x13
+ BV BOUND x14
+ BV BOUND x15
+ BV BOUND x16
+ BV BOUND x17
+ BV BOUND x18
+ BV BOUND x19
+ BV BOUND x20
+ BV BOUND x21
+ BV BOUND x22
+ BV BOUND x23
+ BV BOUND x24
+ BV BOUND x25
+ BV BOUND x26
+ BV BOUND x27
+ BV BOUND x28
+ BV BOUND x29
+ BV BOUND y0_0
+ BV BOUND y1_0
+ BV BOUND y2_0
+ BV BOUND y3_0
+ BV BOUND y4_0
+ BV BOUND y5_0
+ BV BOUND y6_0
+ BV BOUND y7_0
+ BV BOUND y8_0
+ BV BOUND y9_0
+ BV BOUND y10_0
+ BV BOUND y11_0
+ BV BOUND y12_0
+ BV BOUND y13_0
+ BV BOUND y14_0
+ BV BOUND y15_0
+ BV BOUND y16_0
+ BV BOUND y17_0
+ BV BOUND y18_0
+ BV BOUND y19_0
+ BV BOUND y20_0
+ BV BOUND y21_0
+ BV BOUND y22_0
+ BV BOUND y23_0
+ BV BOUND y24_0
+ BV BOUND y25_0
+ BV BOUND y26_0
+ BV BOUND y27_0
+ BV BOUND y28_0
+ BV BOUND y29_0
+ BV BOUND y30_0
+ BV BOUND y31_0
+ BV BOUND y32_0
+ BV BOUND y33_0
+ BV BOUND y34_0
+ BV BOUND y35_0
+ BV BOUND y36_0
+ BV BOUND y37_0
+ BV BOUND y38_0
+ BV BOUND y39_0
+ BV BOUND y0_1
+ BV BOUND y1_1
+ BV BOUND y2_1
+ BV BOUND y3_1
+ BV BOUND y4_1
+ BV BOUND y5_1
+ BV BOUND y6_1
+ BV BOUND y7_1
+ BV BOUND y8_1
+ BV BOUND y9_1
+ BV BOUND y10_1
+ BV BOUND y11_1
+ BV BOUND y12_1
+ BV BOUND y13_1
+ BV BOUND y14_1
+ BV BOUND y15_1
+ BV BOUND y16_1
+ BV BOUND y17_1
+ BV BOUND y18_1
+ BV BOUND y19_1
+ BV BOUND y20_1
+ BV BOUND y21_1
+ BV BOUND y22_1
+ BV BOUND y23_1
+ BV BOUND y24_1
+ BV BOUND y25_1
+ BV BOUND y26_1
+ BV BOUND y27_1
+ BV BOUND y28_1
+ BV BOUND y29_1
+ BV BOUND y30_1
+ BV BOUND y31_1
+ BV BOUND y32_1
+ BV BOUND y33_1
+ BV BOUND y34_1
+ BV BOUND y35_1
+ BV BOUND y36_1
+ BV BOUND y37_1
+ BV BOUND y38_1
+ BV BOUND y39_1
+ BV BOUND y0_2
+ BV BOUND y1_2
+ BV BOUND y2_2
+ BV BOUND y3_2
+ BV BOUND y4_2
+ BV BOUND y5_2
+ BV BOUND y6_2
+ BV BOUND y7_2
+ BV BOUND y8_2
+ BV BOUND y9_2
+ BV BOUND y10_2
+ BV BOUND y11_2
+ BV BOUND y12_2
+ BV BOUND y13_2
+ BV BOUND y14_2
+ BV BOUND y15_2
+ BV BOUND y16_2
+ BV BOUND y17_2
+ BV BOUND y18_2
+ BV BOUND y19_2
+ BV BOUND y20_2
+ BV BOUND y21_2
+ BV BOUND y22_2
+ BV BOUND y23_2
+ BV BOUND y24_2
+ BV BOUND y25_2
+ BV BOUND y26_2
+ BV BOUND y27_2
+ BV BOUND y28_2
+ BV BOUND y29_2
+ BV BOUND y30_2
+ BV BOUND y31_2
+ BV BOUND y32_2
+ BV BOUND y33_2
+ BV BOUND y34_2
+ BV BOUND y35_2
+ BV BOUND y36_2
+ BV BOUND y37_2
+ BV BOUND y38_2
+ BV BOUND y39_2
+ BV BOUND y0_3
+ BV BOUND y1_3
+ BV BOUND y2_3
+ BV BOUND y3_3
+ BV BOUND y4_3
+ BV BOUND y5_3
+ BV BOUND y6_3
+ BV BOUND y7_3
+ BV BOUND y8_3
+ BV BOUND y9_3
+ BV BOUND y10_3
+ BV BOUND y11_3
+ BV BOUND y12_3
+ BV BOUND y13_3
+ BV BOUND y14_3
+ BV BOUND y15_3
+ BV BOUND y16_3
+ BV BOUND y17_3
+ BV BOUND y18_3
+ BV BOUND y19_3
+ BV BOUND y20_3
+ BV BOUND y21_3
+ BV BOUND y22_3
+ BV BOUND y23_3
+ BV BOUND y24_3
+ BV BOUND y25_3
+ BV BOUND y26_3
+ BV BOUND y27_3
+ BV BOUND y28_3
+ BV BOUND y29_3
+ BV BOUND y30_3
+ BV BOUND y31_3
+ BV BOUND y32_3
+ BV BOUND y33_3
+ BV BOUND y34_3
+ BV BOUND y35_3
+ BV BOUND y36_3
+ BV BOUND y37_3
+ BV BOUND y38_3
+ BV BOUND y39_3
+ BV BOUND y0_4
+ BV BOUND y1_4
+ BV BOUND y2_4
+ BV BOUND y3_4
+ BV BOUND y4_4
+ BV BOUND y5_4
+ BV BOUND y6_4
+ BV BOUND y7_4
+ BV BOUND y8_4
+ BV BOUND y9_4
+ BV BOUND y10_4
+ BV BOUND y11_4
+ BV BOUND y12_4
+ BV BOUND y13_4
+ BV BOUND y14_4
+ BV BOUND y15_4
+ BV BOUND y16_4
+ BV BOUND y17_4
+ BV BOUND y18_4
+ BV BOUND y19_4
+ BV BOUND y20_4
+ BV BOUND y21_4
+ BV BOUND y22_4
+ BV BOUND y23_4
+ BV BOUND y24_4
+ BV BOUND y25_4
+ BV BOUND y26_4
+ BV BOUND y27_4
+ BV BOUND y28_4
+ BV BOUND y29_4
+ BV BOUND y30_4
+ BV BOUND y31_4
+ BV BOUND y32_4
+ BV BOUND y33_4
+ BV BOUND y34_4
+ BV BOUND y35_4
+ BV BOUND y36_4
+ BV BOUND y37_4
+ BV BOUND y38_4
+ BV BOUND y39_4
+ BV BOUND y0_5
+ BV BOUND y1_5
+ BV BOUND y2_5
+ BV BOUND y3_5
+ BV BOUND y4_5
+ BV BOUND y5_5
+ BV BOUND y6_5
+ BV BOUND y7_5
+ BV BOUND y8_5
+ BV BOUND y9_5
+ BV BOUND y10_5
+ BV BOUND y11_5
+ BV BOUND y12_5
+ BV BOUND y13_5
+ BV BOUND y14_5
+ BV BOUND y15_5
+ BV BOUND y16_5
+ BV BOUND y17_5
+ BV BOUND y18_5
+ BV BOUND y19_5
+ BV BOUND y20_5
+ BV BOUND y21_5
+ BV BOUND y22_5
+ BV BOUND y23_5
+ BV BOUND y24_5
+ BV BOUND y25_5
+ BV BOUND y26_5
+ BV BOUND y27_5
+ BV BOUND y28_5
+ BV BOUND y29_5
+ BV BOUND y30_5
+ BV BOUND y31_5
+ BV BOUND y32_5
+ BV BOUND y33_5
+ BV BOUND y34_5
+ BV BOUND y35_5
+ BV BOUND y36_5
+ BV BOUND y37_5
+ BV BOUND y38_5
+ BV BOUND y39_5
+ BV BOUND y0_6
+ BV BOUND y1_6
+ BV BOUND y2_6
+ BV BOUND y3_6
+ BV BOUND y4_6
+ BV BOUND y5_6
+ BV BOUND y6_6
+ BV BOUND y7_6
+ BV BOUND y8_6
+ BV BOUND y9_6
+ BV BOUND y10_6
+ BV BOUND y11_6
+ BV BOUND y12_6
+ BV BOUND y13_6
+ BV BOUND y14_6
+ BV BOUND y15_6
+ BV BOUND y16_6
+ BV BOUND y17_6
+ BV BOUND y18_6
+ BV BOUND y19_6
+ BV BOUND y20_6
+ BV BOUND y21_6
+ BV BOUND y22_6
+ BV BOUND y23_6
+ BV BOUND y24_6
+ BV BOUND y25_6
+ BV BOUND y26_6
+ BV BOUND y27_6
+ BV BOUND y28_6
+ BV BOUND y29_6
+ BV BOUND y30_6
+ BV BOUND y31_6
+ BV BOUND y32_6
+ BV BOUND y33_6
+ BV BOUND y34_6
+ BV BOUND y35_6
+ BV BOUND y36_6
+ BV BOUND y37_6
+ BV BOUND y38_6
+ BV BOUND y39_6
+ BV BOUND y0_7
+ BV BOUND y1_7
+ BV BOUND y2_7
+ BV BOUND y3_7
+ BV BOUND y4_7
+ BV BOUND y5_7
+ BV BOUND y6_7
+ BV BOUND y7_7
+ BV BOUND y8_7
+ BV BOUND y9_7
+ BV BOUND y10_7
+ BV BOUND y11_7
+ BV BOUND y12_7
+ BV BOUND y13_7
+ BV BOUND y14_7
+ BV BOUND y15_7
+ BV BOUND y16_7
+ BV BOUND y17_7
+ BV BOUND y18_7
+ BV BOUND y19_7
+ BV BOUND y20_7
+ BV BOUND y21_7
+ BV BOUND y22_7
+ BV BOUND y23_7
+ BV BOUND y24_7
+ BV BOUND y25_7
+ BV BOUND y26_7
+ BV BOUND y27_7
+ BV BOUND y28_7
+ BV BOUND y29_7
+ BV BOUND y30_7
+ BV BOUND y31_7
+ BV BOUND y32_7
+ BV BOUND y33_7
+ BV BOUND y34_7
+ BV BOUND y35_7
+ BV BOUND y36_7
+ BV BOUND y37_7
+ BV BOUND y38_7
+ BV BOUND y39_7
+ BV BOUND y0_8
+ BV BOUND y1_8
+ BV BOUND y2_8
+ BV BOUND y3_8
+ BV BOUND y4_8
+ BV BOUND y5_8
+ BV BOUND y6_8
+ BV BOUND y7_8
+ BV BOUND y8_8
+ BV BOUND y9_8
+ BV BOUND y10_8
+ BV BOUND y11_8
+ BV BOUND y12_8
+ BV BOUND y13_8
+ BV BOUND y14_8
+ BV BOUND y15_8
+ BV BOUND y16_8
+ BV BOUND y17_8
+ BV BOUND y18_8
+ BV BOUND y19_8
+ BV BOUND y20_8
+ BV BOUND y21_8
+ BV BOUND y22_8
+ BV BOUND y23_8
+ BV BOUND y24_8
+ BV BOUND y25_8
+ BV BOUND y26_8
+ BV BOUND y27_8
+ BV BOUND y28_8
+ BV BOUND y29_8
+ BV BOUND y30_8
+ BV BOUND y31_8
+ BV BOUND y32_8
+ BV BOUND y33_8
+ BV BOUND y34_8
+ BV BOUND y35_8
+ BV BOUND y36_8
+ BV BOUND y37_8
+ BV BOUND y38_8
+ BV BOUND y39_8
+ BV BOUND y0_9
+ BV BOUND y1_9
+ BV BOUND y2_9
+ BV BOUND y3_9
+ BV BOUND y4_9
+ BV BOUND y5_9
+ BV BOUND y6_9
+ BV BOUND y7_9
+ BV BOUND y8_9
+ BV BOUND y9_9
+ BV BOUND y10_9
+ BV BOUND y11_9
+ BV BOUND y12_9
+ BV BOUND y13_9
+ BV BOUND y14_9
+ BV BOUND y15_9
+ BV BOUND y16_9
+ BV BOUND y17_9
+ BV BOUND y18_9
+ BV BOUND y19_9
+ BV BOUND y20_9
+ BV BOUND y21_9
+ BV BOUND y22_9
+ BV BOUND y23_9
+ BV BOUND y24_9
+ BV BOUND y25_9
+ BV BOUND y26_9
+ BV BOUND y27_9
+ BV BOUND y28_9
+ BV BOUND y29_9
+ BV BOUND y30_9
+ BV BOUND y31_9
+ BV BOUND y32_9
+ BV BOUND y33_9
+ BV BOUND y34_9
+ BV BOUND y35_9
+ BV BOUND y36_9
+ BV BOUND y37_9
+ BV BOUND y38_9
+ BV BOUND y39_9
+ BV BOUND y0_10
+ BV BOUND y1_10
+ BV BOUND y2_10
+ BV BOUND y3_10
+ BV BOUND y4_10
+ BV BOUND y5_10
+ BV BOUND y6_10
+ BV BOUND y7_10
+ BV BOUND y8_10
+ BV BOUND y9_10
+ BV BOUND y10_10
+ BV BOUND y11_10
+ BV BOUND y12_10
+ BV BOUND y13_10
+ BV BOUND y14_10
+ BV BOUND y15_10
+ BV BOUND y16_10
+ BV BOUND y17_10
+ BV BOUND y18_10
+ BV BOUND y19_10
+ BV BOUND y20_10
+ BV BOUND y21_10
+ BV BOUND y22_10
+ BV BOUND y23_10
+ BV BOUND y24_10
+ BV BOUND y25_10
+ BV BOUND y26_10
+ BV BOUND y27_10
+ BV BOUND y28_10
+ BV BOUND y29_10
+ BV BOUND y30_10
+ BV BOUND y31_10
+ BV BOUND y32_10
+ BV BOUND y33_10
+ BV BOUND y34_10
+ BV BOUND y35_10
+ BV BOUND y36_10
+ BV BOUND y37_10
+ BV BOUND y38_10
+ BV BOUND y39_10
+ BV BOUND y0_11
+ BV BOUND y1_11
+ BV BOUND y2_11
+ BV BOUND y3_11
+ BV BOUND y4_11
+ BV BOUND y5_11
+ BV BOUND y6_11
+ BV BOUND y7_11
+ BV BOUND y8_11
+ BV BOUND y9_11
+ BV BOUND y10_11
+ BV BOUND y11_11
+ BV BOUND y12_11
+ BV BOUND y13_11
+ BV BOUND y14_11
+ BV BOUND y15_11
+ BV BOUND y16_11
+ BV BOUND y17_11
+ BV BOUND y18_11
+ BV BOUND y19_11
+ BV BOUND y20_11
+ BV BOUND y21_11
+ BV BOUND y22_11
+ BV BOUND y23_11
+ BV BOUND y24_11
+ BV BOUND y25_11
+ BV BOUND y26_11
+ BV BOUND y27_11
+ BV BOUND y28_11
+ BV BOUND y29_11
+ BV BOUND y30_11
+ BV BOUND y31_11
+ BV BOUND y32_11
+ BV BOUND y33_11
+ BV BOUND y34_11
+ BV BOUND y35_11
+ BV BOUND y36_11
+ BV BOUND y37_11
+ BV BOUND y38_11
+ BV BOUND y39_11
+ BV BOUND y0_12
+ BV BOUND y1_12
+ BV BOUND y2_12
+ BV BOUND y3_12
+ BV BOUND y4_12
+ BV BOUND y5_12
+ BV BOUND y6_12
+ BV BOUND y7_12
+ BV BOUND y8_12
+ BV BOUND y9_12
+ BV BOUND y10_12
+ BV BOUND y11_12
+ BV BOUND y12_12
+ BV BOUND y13_12
+ BV BOUND y14_12
+ BV BOUND y15_12
+ BV BOUND y16_12
+ BV BOUND y17_12
+ BV BOUND y18_12
+ BV BOUND y19_12
+ BV BOUND y20_12
+ BV BOUND y21_12
+ BV BOUND y22_12
+ BV BOUND y23_12
+ BV BOUND y24_12
+ BV BOUND y25_12
+ BV BOUND y26_12
+ BV BOUND y27_12
+ BV BOUND y28_12
+ BV BOUND y29_12
+ BV BOUND y30_12
+ BV BOUND y31_12
+ BV BOUND y32_12
+ BV BOUND y33_12
+ BV BOUND y34_12
+ BV BOUND y35_12
+ BV BOUND y36_12
+ BV BOUND y37_12
+ BV BOUND y38_12
+ BV BOUND y39_12
+ BV BOUND y0_13
+ BV BOUND y1_13
+ BV BOUND y2_13
+ BV BOUND y3_13
+ BV BOUND y4_13
+ BV BOUND y5_13
+ BV BOUND y6_13
+ BV BOUND y7_13
+ BV BOUND y8_13
+ BV BOUND y9_13
+ BV BOUND y10_13
+ BV BOUND y11_13
+ BV BOUND y12_13
+ BV BOUND y13_13
+ BV BOUND y14_13
+ BV BOUND y15_13
+ BV BOUND y16_13
+ BV BOUND y17_13
+ BV BOUND y18_13
+ BV BOUND y19_13
+ BV BOUND y20_13
+ BV BOUND y21_13
+ BV BOUND y22_13
+ BV BOUND y23_13
+ BV BOUND y24_13
+ BV BOUND y25_13
+ BV BOUND y26_13
+ BV BOUND y27_13
+ BV BOUND y28_13
+ BV BOUND y29_13
+ BV BOUND y30_13
+ BV BOUND y31_13
+ BV BOUND y32_13
+ BV BOUND y33_13
+ BV BOUND y34_13
+ BV BOUND y35_13
+ BV BOUND y36_13
+ BV BOUND y37_13
+ BV BOUND y38_13
+ BV BOUND y39_13
+ BV BOUND y0_14
+ BV BOUND y1_14
+ BV BOUND y2_14
+ BV BOUND y3_14
+ BV BOUND y4_14
+ BV BOUND y5_14
+ BV BOUND y6_14
+ BV BOUND y7_14
+ BV BOUND y8_14
+ BV BOUND y9_14
+ BV BOUND y10_14
+ BV BOUND y11_14
+ BV BOUND y12_14
+ BV BOUND y13_14
+ BV BOUND y14_14
+ BV BOUND y15_14
+ BV BOUND y16_14
+ BV BOUND y17_14
+ BV BOUND y18_14
+ BV BOUND y19_14
+ BV BOUND y20_14
+ BV BOUND y21_14
+ BV BOUND y22_14
+ BV BOUND y23_14
+ BV BOUND y24_14
+ BV BOUND y25_14
+ BV BOUND y26_14
+ BV BOUND y27_14
+ BV BOUND y28_14
+ BV BOUND y29_14
+ BV BOUND y30_14
+ BV BOUND y31_14
+ BV BOUND y32_14
+ BV BOUND y33_14
+ BV BOUND y34_14
+ BV BOUND y35_14
+ BV BOUND y36_14
+ BV BOUND y37_14
+ BV BOUND y38_14
+ BV BOUND y39_14
+ENDATA 
