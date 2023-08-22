@@ -44,5 +44,11 @@ The following figure illustrates the OCBA computational results: the evaluated s
 ## Replicating
 To replicate the results, please compile the src for both variance reduction and the efficient budget allocation methods. Please use the scripts in the 'scripts' folder, and run the compiled programs with the input data in the 'data' folder.
 
+For example, if you want to run the first variance reduction method in the paper. Here are the steps:
+1. Copy all the instances in the 'data' folder to 'src/SMIP_VarianceReduction/LShape_xcode/spInput'
+2. cd src/SMIP_VarianceReduction/LShape_xcode
+2. Unzip the 'compiled file.zip'
+3. Execute 'run.sh'
+
 ## Support
 For support in using this software, submit an issue.
